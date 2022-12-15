@@ -1,0 +1,557 @@
+2022-11-22 12:01:43,978-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-22 12:07:40,614-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[formcontrolname='userName']")
+2022-11-22 12:07:40,614-basePage.py:[51]-[ERROR]-输入内容失败：17319744388
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 12:07:45,673-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[formcontrolname='password']")
+2022-11-22 12:07:45,673-basePage.py:[51]-[ERROR]-输入内容失败：sunfeiyue2000
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 12:07:50,766-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[type='submit']")
+2022-11-22 12:07:50,767-basePage.py:[85]-[ERROR]-点击失败('css selector', "[type='submit']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-22 12:07:55,853-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='ng-tns-c5-1']")
+2022-11-22 12:07:55,853-basePage.py:[62]-[ERROR]-获取文本失败；('css selector', "[class^='ng-tns-c5-1']")
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-22 12:08:26,170-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[formcontrolname='userName']")
+2022-11-22 12:08:26,170-basePage.py:[51]-[ERROR]-输入内容失败：17319744388
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 12:08:30,357-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', "[formcontrolname='password']")
+2022-11-22 12:08:30,357-basePage.py:[51]-[ERROR]-输入内容失败：sunfeiyue2000
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 12:08:30,359-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', "[type='submit']")
+2022-11-22 12:08:30,359-basePage.py:[85]-[ERROR]-点击失败('css selector', "[type='submit']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-22 12:08:30,362-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', "[class^='ng-tns-c5-1']")
+2022-11-22 12:08:30,362-basePage.py:[62]-[ERROR]-获取文本失败；('css selector', "[class^='ng-tns-c5-1']")
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-22 12:08:37,219-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：'NoneType' object has no attribute 'is_displayed'
+定位失败信息：('css selector', "[formcontrolname='userName']")
+2022-11-22 12:08:37,219-basePage.py:[51]-[ERROR]-输入内容失败：17319744388
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 12:08:37,265-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', "[formcontrolname='password']")
+2022-11-22 12:08:37,265-basePage.py:[51]-[ERROR]-输入内容失败：sunfeiyue2000
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 12:08:37,269-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', "[type='submit']")
+2022-11-22 12:08:37,270-basePage.py:[85]-[ERROR]-点击失败('css selector', "[type='submit']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-22 12:08:37,273-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', "[class^='ng-tns-c5-1']")
+2022-11-22 12:08:37,273-basePage.py:[62]-[ERROR]-获取文本失败；('css selector', "[class^='ng-tns-c5-1']")
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-22 12:08:59,193-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[formcontrolname='userName']")
+2022-11-22 12:08:59,193-basePage.py:[51]-[ERROR]-输入内容失败：17319744388
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 12:08:59,359-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', "[formcontrolname='password']")
+2022-11-22 12:08:59,359-basePage.py:[51]-[ERROR]-输入内容失败：sunfeiyue2000
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 12:08:59,366-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', "[type='submit']")
+2022-11-22 12:08:59,366-basePage.py:[85]-[ERROR]-点击失败('css selector', "[type='submit']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-22 12:08:59,373-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', "[class^='ng-tns-c5-1']")
+2022-11-22 12:08:59,373-basePage.py:[62]-[ERROR]-获取文本失败；('css selector', "[class^='ng-tns-c5-1']")
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-22 12:10:11,080-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[formcontrolname='userName']")
+2022-11-22 12:10:11,080-basePage.py:[51]-[ERROR]-输入内容失败：17319744388
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 12:10:15,756-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', "[formcontrolname='password']")
+2022-11-22 12:10:15,756-basePage.py:[51]-[ERROR]-输入内容失败：sunfeiyue2000
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 12:10:48,390-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-22 12:10:48,435-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-22 12:10:48,555-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-22 12:10:48,596-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-22 12:10:48,708-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-22 12:10:48,739-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-22 12:10:48,893-basePage.py:[88]-[DEBUG]-点击成功
+2022-11-22 12:10:53,930-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='ng-tns-c5-1']")
+2022-11-22 12:10:53,930-basePage.py:[62]-[ERROR]-获取文本失败；('css selector', "[class^='ng-tns-c5-1']")
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-22 12:12:00,092-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-22 12:12:00,188-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-22 12:12:00,349-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-22 12:12:00,404-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-22 12:12:00,560-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-22 12:12:00,589-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-22 12:12:00,661-basePage.py:[88]-[DEBUG]-点击成功
+2022-11-22 12:12:05,670-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='ng-tns-c5-1']")
+2022-11-22 12:12:05,670-basePage.py:[62]-[ERROR]-获取文本失败；('css selector', "[class^='ng-tns-c5-1']")
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-22 12:12:50,114-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-22 12:12:50,309-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-22 12:12:50,524-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-22 12:12:50,559-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-22 12:12:50,703-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-22 12:12:50,731-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-22 12:12:50,795-basePage.py:[88]-[DEBUG]-点击成功
+2022-11-22 12:13:11,081-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: disconnected: received Inspector.detached event
+  (failed to check if window was closed: disconnected: unable to connect to renderer)
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', "[class^='ng-tns-c5-1']")
+2022-11-22 12:13:11,081-basePage.py:[62]-[ERROR]-获取文本失败；('css selector', "[class^='ng-tns-c5-1']")
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-22 14:34:00,254-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-22 14:34:00,436-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-22 14:34:00,583-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-22 14:34:00,626-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-22 14:34:00,768-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-22 14:34:00,810-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-22 14:34:00,880-basePage.py:[88]-[DEBUG]-点击成功
+2022-11-22 14:34:11,041-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', '.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 14:34:11,041-basePage.py:[62]-[ERROR]-获取文本失败；('css selector', '.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation')
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-22 14:34:19,130-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+定位失败信息：('css selector', '.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 14:34:19,130-basePage.py:[62]-[ERROR]-获取文本失败；('css selector', '.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation')
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-22 14:34:45,434-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-22 14:34:45,618-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-22 14:34:45,882-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-22 14:34:45,922-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-22 14:34:46,091-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-22 14:34:46,128-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-22 14:34:46,212-basePage.py:[88]-[DEBUG]-点击成功
+2022-11-22 14:34:56,339-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', '.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 14:34:56,339-basePage.py:[62]-[ERROR]-获取文本失败；('css selector', '.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation')
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-22 14:35:02,140-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+定位失败信息：('css selector', '.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 14:35:02,140-basePage.py:[62]-[ERROR]-获取文本失败；('css selector', '.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation')
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-22 14:35:14,228-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://www.baidu.com
+2022-11-22 14:35:14,997-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 's-usersetting-top')
+2022-11-22 14:35:15,014-basePage.py:[65]-[DEBUG]-文本获取成功：设置
+2022-11-22 14:35:15,045-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'kw')
+2022-11-22 14:35:15,249-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-22 14:35:15,301-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'su')
+2022-11-22 14:35:15,454-basePage.py:[88]-[DEBUG]-点击成功
+2022-11-22 14:35:19,327-basePage.py:[77]-[DEBUG]-截图成功D:/pythonCoding/webAutoProject\data/photos/2022_11_22 14_35_091.png
+2022-11-22 14:35:30,803-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-22 14:38:36,090-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-22 14:43:05,831-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-22 14:43:06,027-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-22 14:43:06,292-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 14:43:06,330-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-22 14:43:06,491-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 14:43:06,526-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-22 14:43:06,648-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 14:43:27,889-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: disconnected: received Inspector.detached event
+  (failed to check if window was closed: disconnected: unable to connect to renderer)
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', '.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 14:43:27,889-basePage.py:[64]-[ERROR]-获取文本失败；('css selector', '.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation')
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-22 14:44:00,229-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: disconnected: unable to connect to renderer
+  (failed to check if window was closed: disconnected: unable to connect to renderer)
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', '.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 14:44:00,229-basePage.py:[64]-[ERROR]-获取文本失败；('css selector', '.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation')
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-22 17:13:11,452-doExcel.py:[34]-[ERROR]-读取文件异常list index out of range
+2022-11-22 17:13:25,620-doExcel.py:[34]-[ERROR]-读取文件异常list index out of range
+2022-11-22 17:13:55,527-doExcel.py:[34]-[ERROR]-读取文件异常list index out of range
+2022-11-22 17:14:24,704-doExcel.py:[34]-[ERROR]-读取文件异常list index out of range
+2022-11-22 17:15:02,777-doExcel.py:[34]-[ERROR]-读取文件异常list index out of range
+2022-11-22 17:19:21,653-doExcel.py:[36]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-22 17:55:21,758-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-22 17:55:21,758-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-22 17:55:21,758-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-22 17:55:21,759-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-22 17:55:21,759-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-22 17:55:21,759-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-22 17:55:21,759-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-22 17:55:21,759-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-22 17:55:21,759-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-22 17:56:20,530-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-22 17:56:20,963-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-22 17:56:21,051-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 17:56:21,103-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-22 17:56:21,186-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 17:56:21,237-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-22 17:56:21,306-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 17:56:21,333-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-22 17:56:21,500-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 17:56:21,530-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-22 17:56:21,691-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 17:56:21,748-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-22 17:56:21,817-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 17:56:26,110-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+定位失败信息：('css selector', '.abt-modal-confirm-title>span')
+2022-11-22 17:56:26,110-basePage.py:[64]-[ERROR]-获取文本失败；('css selector', '.abt-modal-confirm-title>span')
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-22 17:56:34,264-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=50221): Max retries exceeded with url: /session/259743e410a9c718a81cae0823836b43/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023A9EF84BE0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('css selector', '.abt-modal-confirm-btns>button')
+2022-11-22 17:56:34,265-basePage.py:[87]-[ERROR]-点击失败('css selector', '.abt-modal-confirm-btns>button')
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-22 18:32:16,053-basePage.py:[31]-[INFO]-未发生异常页面打开成功：https://www.baidu.com/
+2022-11-22 18:32:16,670-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.s-top-login-btn.c-btn.c-btn-primary.c-btn-mini.lb')
+2022-11-22 18:32:16,775-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 18:32:17,480-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.pass-text-input.pass-text-input-userName')
+2022-11-22 18:32:17,657-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 18:32:17,691-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.pass-text-input.pass-text-input-password')
+2022-11-22 18:32:18,379-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 18:32:18,414-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '#TANGRAM__PSP_11__submit')
+2022-11-22 18:32:18,496-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 18:33:47,836-basePage.py:[31]-[INFO]-未发生异常页面打开成功：https://www.baidu.com/
+2022-11-22 18:33:48,445-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.s-top-login-btn.c-btn.c-btn-primary.c-btn-mini.lb')
+2022-11-22 18:33:48,563-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 18:33:49,750-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.pass-text-input.pass-text-input-userName')
+2022-11-22 18:33:49,954-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 18:33:49,981-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.pass-text-input.pass-text-input-password')
+2022-11-22 18:33:50,113-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 18:33:50,142-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '#TANGRAM__PSP_11__submit')
+2022-11-22 18:33:50,241-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 18:33:50,325-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.pass-generalError.pass-generalError-error')
+2022-11-22 18:33:50,344-basePage.py:[67]-[DEBUG]-文本获取成功：
+2022-11-22 18:36:24,123-basePage.py:[31]-[INFO]-未发生异常页面打开成功：https://www.baidu.com/
+2022-11-22 18:36:24,779-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.s-top-login-btn.c-btn.c-btn-primary.c-btn-mini.lb')
+2022-11-22 18:36:24,838-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 18:36:26,497-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.pass-text-input.pass-text-input-userName')
+2022-11-22 18:36:26,668-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 18:36:26,714-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.pass-text-input.pass-text-input-password')
+2022-11-22 18:36:26,880-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 18:36:26,949-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '#TANGRAM__PSP_11__submit')
+2022-11-22 18:36:27,046-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 18:36:27,112-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.pass-generalError.pass-generalError-error')
+2022-11-22 18:36:27,130-basePage.py:[67]-[DEBUG]-文本获取成功：
+2022-11-22 18:37:55,261-basePage.py:[31]-[INFO]-未发生异常页面打开成功：https://www.baidu.com/
+2022-11-22 18:37:55,753-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.s-top-login-btn.c-btn.c-btn-primary.c-btn-mini.lb')
+2022-11-22 18:37:55,975-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 18:37:57,058-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.pass-text-input.pass-text-input-userName')
+2022-11-22 18:37:57,213-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 18:37:57,265-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.pass-text-input.pass-text-input-password')
+2022-11-22 18:37:57,905-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 18:37:57,931-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '#TANGRAM__PSP_11__submit')
+2022-11-22 18:37:58,011-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 18:37:58,038-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.pass-generalError.pass-generalError-error')
+2022-11-22 18:37:58,055-basePage.py:[67]-[DEBUG]-文本获取成功：
+2022-11-22 18:46:17,475-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-22 18:46:17,475-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-22 18:46:17,475-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-22 18:46:17,475-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-22 18:46:17,475-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-22 18:46:17,475-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-22 18:46:17,475-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-22 18:46:21,166-basePage.py:[31]-[INFO]-未发生异常页面打开成功：https://www.baidu.com/
+2022-11-22 18:46:21,753-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-22 18:46:22,200-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 18:46:32,372-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[formcontrolname='userName']")
+2022-11-22 18:46:32,372-basePage.py:[53]-[ERROR]-输入内容失败：17319744388
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 18:46:42,523-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[formcontrolname='password']")
+2022-11-22 18:46:42,523-basePage.py:[53]-[ERROR]-输入内容失败：sunfeiyue
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 18:46:52,690-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', '.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 18:46:52,690-basePage.py:[87]-[ERROR]-点击失败('css selector', '.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation')
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-22 18:47:02,843-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', '.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 18:47:02,843-basePage.py:[64]-[ERROR]-获取文本失败；('css selector', '.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation')
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-22 18:47:16,813-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-22 18:47:16,814-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-22 18:47:16,814-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-22 18:47:16,814-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-22 18:47:16,814-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-22 18:47:16,814-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-22 18:47:16,814-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-22 18:47:20,222-basePage.py:[31]-[INFO]-未发生异常页面打开成功：https://www.baidu.com/
+2022-11-22 18:47:20,837-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-22 18:47:21,235-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 18:47:31,380-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[formcontrolname='userName']")
+2022-11-22 18:47:31,380-basePage.py:[53]-[ERROR]-输入内容失败：17319744388
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 18:47:41,516-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[formcontrolname='password']")
+2022-11-22 18:47:41,516-basePage.py:[53]-[ERROR]-输入内容失败：sunfeiyue
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 18:47:51,669-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', '.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 18:47:51,669-basePage.py:[87]-[ERROR]-点击失败('css selector', '.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation')
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-22 18:48:01,820-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', '.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 18:48:01,821-basePage.py:[64]-[ERROR]-获取文本失败；('css selector', '.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation')
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-22 18:49:43,925-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-22 18:49:43,925-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-22 18:49:43,925-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-22 18:49:43,925-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-22 18:49:43,925-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-22 18:49:43,925-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-22 18:49:43,926-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-22 18:49:43,926-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-22 18:49:43,926-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-22 18:49:55,091-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-22 18:49:55,286-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-22 18:49:55,356-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 18:49:55,519-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-22 18:49:55,582-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 18:49:55,617-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-22 18:49:55,683-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 18:49:55,709-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-22 18:49:55,879-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 18:49:55,900-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-22 18:49:56,044-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 18:49:56,095-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-22 18:49:56,150-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 18:49:59,298-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+定位失败信息：('css selector', '.abt-modal-confirm-title>span')
+2022-11-22 18:49:59,299-basePage.py:[64]-[ERROR]-获取文本失败；('css selector', '.abt-modal-confirm-title>span')
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-22 18:50:07,400-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=63010): Max retries exceeded with url: /session/c8f7a04c0b8e05ee8904271c22de2b5f/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000242B54E4610>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('css selector', '.abt-modal-confirm-btns>button')
+2022-11-22 18:50:07,482-basePage.py:[87]-[ERROR]-点击失败('css selector', '.abt-modal-confirm-btns>button')
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-22 19:04:48,199-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-22 19:04:48,199-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-22 19:04:48,199-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-22 19:04:48,199-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-22 19:04:48,199-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-22 19:04:48,200-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-22 19:04:48,200-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-22 19:04:52,019-basePage.py:[31]-[INFO]-未发生异常页面打开成功：https://www.baidu.com/
+2022-11-22 19:04:52,529-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-22 19:04:53,093-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 19:05:03,232-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[formcontrolname='userName']")
+2022-11-22 19:05:03,232-basePage.py:[53]-[ERROR]-输入内容失败：17319744388
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 19:05:13,371-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[formcontrolname='password']")
+2022-11-22 19:05:13,371-basePage.py:[53]-[ERROR]-输入内容失败：sunfeiyue
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 19:05:23,523-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', '.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 19:05:23,523-basePage.py:[87]-[ERROR]-点击失败('css selector', '.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation')
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-22 19:09:45,296-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-22 19:09:45,296-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-22 19:09:45,297-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-22 19:09:45,297-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-22 19:09:45,297-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-22 19:09:45,297-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-22 19:09:45,297-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-22 19:09:49,347-basePage.py:[31]-[INFO]-未发生异常页面打开成功：https://www.baidu.com/
+2022-11-22 19:09:49,976-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-22 19:09:50,384-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 19:10:00,530-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[formcontrolname='userName']")
+2022-11-22 19:10:00,530-basePage.py:[53]-[ERROR]-输入内容失败：17319744388
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 19:10:10,674-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[formcontrolname='password']")
+2022-11-22 19:10:10,674-basePage.py:[53]-[ERROR]-输入内容失败：sunfeiyue
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 19:10:20,843-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', '.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation')
+2022-11-22 19:10:20,843-basePage.py:[87]-[ERROR]-点击失败('css selector', '.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation')
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-22 19:12:46,741-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-22 19:12:46,741-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-22 19:12:46,741-doExcel.py:[48]-[DEBUG]-读取文件成功.s-top-login-btn.c-btn.c-btn-primary.c-btn-mini.lb
+2022-11-22 19:12:46,741-doExcel.py:[48]-[DEBUG]-读取文件成功.pass-text-input.pass-text-input-userName
+2022-11-22 19:12:46,741-doExcel.py:[48]-[DEBUG]-读取文件成功.pass-text-input.pass-text-input-password
+2022-11-22 19:12:46,741-doExcel.py:[48]-[DEBUG]-读取文件成功#TANGRAM__PSP_11__submit
+2022-11-22 19:12:46,741-doExcel.py:[48]-[DEBUG]-读取文件成功.pass-generalError.pass-generalError-error
+2022-11-22 19:12:50,866-basePage.py:[31]-[INFO]-未发生异常页面打开成功：https://www.baidu.com/
+2022-11-22 19:12:51,481-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.s-top-login-btn.c-btn.c-btn-primary.c-btn-mini.lb')
+2022-11-22 19:12:51,575-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 19:12:52,383-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.pass-text-input.pass-text-input-userName')
+2022-11-22 19:12:52,963-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 19:12:53,015-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.pass-text-input.pass-text-input-password')
+2022-11-22 19:12:53,176-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 19:12:53,208-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '#TANGRAM__PSP_11__submit')
+2022-11-22 19:12:53,293-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 19:13:03,017-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-22 19:13:03,017-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-22 19:13:03,017-doExcel.py:[48]-[DEBUG]-读取文件成功.s-top-login-btn.c-btn.c-btn-primary.c-btn-mini.lb
+2022-11-22 19:13:03,017-doExcel.py:[48]-[DEBUG]-读取文件成功.pass-text-input.pass-text-input-userName
+2022-11-22 19:13:03,018-doExcel.py:[48]-[DEBUG]-读取文件成功.pass-text-input.pass-text-input-password
+2022-11-22 19:13:03,018-doExcel.py:[48]-[DEBUG]-读取文件成功#TANGRAM__PSP_11__submit
+2022-11-22 19:13:03,018-doExcel.py:[48]-[DEBUG]-读取文件成功.pass-generalError.pass-generalError-error
+2022-11-22 19:13:06,703-basePage.py:[31]-[INFO]-未发生异常页面打开成功：https://www.baidu.com/
+2022-11-22 19:13:07,302-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.s-top-login-btn.c-btn.c-btn-primary.c-btn-mini.lb')
+2022-11-22 19:13:07,364-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 19:13:08,796-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.pass-text-input.pass-text-input-userName')
+2022-11-22 19:13:08,950-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 19:13:08,985-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.pass-text-input.pass-text-input-password')
+2022-11-22 19:13:09,717-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 19:13:09,804-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '#TANGRAM__PSP_11__submit')
+2022-11-22 19:13:09,914-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 19:13:09,998-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.pass-generalError.pass-generalError-error')
+2022-11-22 19:13:10,030-basePage.py:[67]-[DEBUG]-文本获取成功：
+2022-11-22 19:15:24,755-doExcel.py:[29]-[ERROR]-excel表打开失败[Errno 2] No such file or directory: 'D:/pythonCoding/webAutoProject\\data/testDatas/baiduelement'
+2022-11-22 19:15:24,756-doExcel.py:[37]-[ERROR]-sheet页定位失败'DoExcel' object has no attribute 'wkbook'
+2022-11-22 19:15:24,756-doExcel.py:[46]-[ERROR]-读取文件异常'DoExcel' object has no attribute 'sheet'
+2022-11-22 19:15:24,756-doExcel.py:[46]-[ERROR]-读取文件异常'DoExcel' object has no attribute 'sheet'
+2022-11-22 19:15:24,756-doExcel.py:[46]-[ERROR]-读取文件异常'DoExcel' object has no attribute 'sheet'
+2022-11-22 19:15:24,756-doExcel.py:[46]-[ERROR]-读取文件异常'DoExcel' object has no attribute 'sheet'
+2022-11-22 19:15:24,756-doExcel.py:[46]-[ERROR]-读取文件异常'DoExcel' object has no attribute 'sheet'
+2022-11-22 19:15:28,329-basePage.py:[31]-[INFO]-未发生异常页面打开成功：https://www.baidu.com/
+2022-11-22 19:15:28,809-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: invalid argument: 'value' must be a string
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', None)
+2022-11-22 19:15:28,809-basePage.py:[87]-[ERROR]-点击失败('css selector', None)
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-22 19:15:28,815-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: invalid argument: 'value' must be a string
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', None)
+2022-11-22 19:15:28,815-basePage.py:[53]-[ERROR]-输入内容失败：17319744388
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 19:15:28,820-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: invalid argument: 'value' must be a string
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', None)
+2022-11-22 19:15:28,820-basePage.py:[53]-[ERROR]-输入内容失败：sunfeiyue
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 19:15:28,824-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: invalid argument: 'value' must be a string
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', None)
+2022-11-22 19:15:28,825-basePage.py:[87]-[ERROR]-点击失败('css selector', None)
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-22 19:15:28,833-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: invalid argument: 'value' must be a string
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', None)
+2022-11-22 19:15:28,833-basePage.py:[64]-[ERROR]-获取文本失败；('css selector', None)
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-22 19:15:43,982-doExcel.py:[29]-[ERROR]-excel表打开失败[Errno 2] No such file or directory: 'D:/pythonCoding/webAutoProject\\data/testDatas/baiduelement'
+2022-11-22 19:15:43,982-doExcel.py:[37]-[ERROR]-sheet页定位失败'DoExcel' object has no attribute 'wkbook'
+2022-11-22 19:15:43,982-doExcel.py:[46]-[ERROR]-读取文件异常'DoExcel' object has no attribute 'sheet'
+2022-11-22 19:15:43,982-doExcel.py:[46]-[ERROR]-读取文件异常'DoExcel' object has no attribute 'sheet'
+2022-11-22 19:15:43,983-doExcel.py:[46]-[ERROR]-读取文件异常'DoExcel' object has no attribute 'sheet'
+2022-11-22 19:15:43,983-doExcel.py:[46]-[ERROR]-读取文件异常'DoExcel' object has no attribute 'sheet'
+2022-11-22 19:15:43,983-doExcel.py:[46]-[ERROR]-读取文件异常'DoExcel' object has no attribute 'sheet'
+2022-11-22 19:15:48,065-basePage.py:[31]-[INFO]-未发生异常页面打开成功：https://www.baidu.com/
+2022-11-22 19:15:48,497-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: invalid argument: 'value' must be a string
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', None)
+2022-11-22 19:15:48,497-basePage.py:[87]-[ERROR]-点击失败('css selector', None)
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-22 19:15:48,510-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: invalid argument: 'value' must be a string
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', None)
+2022-11-22 19:15:48,510-basePage.py:[53]-[ERROR]-输入内容失败：17319744388
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 19:15:48,514-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: invalid argument: 'value' must be a string
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', None)
+2022-11-22 19:15:48,515-basePage.py:[53]-[ERROR]-输入内容失败：sunfeiyue
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-22 19:15:48,519-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: invalid argument: 'value' must be a string
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', None)
+2022-11-22 19:15:48,519-basePage.py:[87]-[ERROR]-点击失败('css selector', None)
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-22 19:15:48,524-basePage.py:[40]-[ERROR]-定位元素失败异常信息是：Message: invalid argument: 'value' must be a string
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', None)
+2022-11-22 19:15:48,524-basePage.py:[64]-[ERROR]-获取文本失败；('css selector', None)
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-22 19:16:05,185-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-22 19:16:05,185-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-22 19:16:05,186-doExcel.py:[48]-[DEBUG]-读取文件成功.s-top-login-btn.c-btn.c-btn-primary.c-btn-mini.lb
+2022-11-22 19:16:05,186-doExcel.py:[48]-[DEBUG]-读取文件成功.pass-text-input.pass-text-input-userName
+2022-11-22 19:16:05,186-doExcel.py:[48]-[DEBUG]-读取文件成功.pass-text-input.pass-text-input-password
+2022-11-22 19:16:05,186-doExcel.py:[48]-[DEBUG]-读取文件成功#TANGRAM__PSP_11__submit
+2022-11-22 19:16:05,186-doExcel.py:[48]-[DEBUG]-读取文件成功.pass-generalError.pass-generalError-error
+2022-11-22 19:16:08,532-basePage.py:[31]-[INFO]-未发生异常页面打开成功：https://www.baidu.com/
+2022-11-22 19:16:09,182-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.s-top-login-btn.c-btn.c-btn-primary.c-btn-mini.lb')
+2022-11-22 19:16:09,278-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 19:16:10,499-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.pass-text-input.pass-text-input-userName')
+2022-11-22 19:16:10,704-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 19:16:10,732-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.pass-text-input.pass-text-input-password')
+2022-11-22 19:16:10,895-basePage.py:[56]-[DEBUG]-输入内容成功
+2022-11-22 19:16:10,927-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '#TANGRAM__PSP_11__submit')
+2022-11-22 19:16:11,010-basePage.py:[90]-[DEBUG]-点击成功
+2022-11-22 19:16:11,066-basePage.py:[44]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.pass-generalError.pass-generalError-error')
+2022-11-22 19:16:11,084-basePage.py:[67]-[DEBUG]-文本获取成功：

@@ -1,0 +1,239 @@
+2022-11-21 14:59:05,162-dologer.py:[31]-[DEBUG]-我是DEBUG级别的日志，等级是10
+2022-11-21 14:59:05,162-dologer.py:[32]-[INFO]-我是INFO级别的日志，等级是20
+2022-11-21 14:59:05,162-dologer.py:[33]-[WARNING]-我是WARNING级别的日志，等级是30
+2022-11-21 14:59:05,162-dologer.py:[34]-[ERROR]-我是ERROR级别的日志，等级是40
+2022-11-21 14:59:05,163-dologer.py:[35]-[CRITICAL]-我是CRITICAL级别的日志，等级是50
+2022-11-21 14:59:15,221-dologer.py:[31]-[DEBUG]-我是DEBUG级别的日志，等级是10
+2022-11-21 14:59:15,222-dologer.py:[32]-[INFO]-我是INFO级别的日志，等级是20
+2022-11-21 14:59:15,222-dologer.py:[33]-[WARNING]-我是WARNING级别的日志，等级是30
+2022-11-21 14:59:15,222-dologer.py:[34]-[ERROR]-我是ERROR级别的日志，等级是40
+2022-11-21 14:59:15,222-dologer.py:[35]-[CRITICAL]-我是CRITICAL级别的日志，等级是50
+2022-11-21 15:12:51,376-dologer.py:[32]-[DEBUG]-我是DEBUG级别的日志，等级是10
+2022-11-21 15:12:51,377-dologer.py:[34]-[INFO]-我是INFO级别的日志，等级是20
+2022-11-21 15:12:51,377-dologer.py:[36]-[WARNING]-我是WARNING级别的日志，等级是30
+2022-11-21 15:12:51,377-dologer.py:[38]-[ERROR]-我是ERROR级别的日志，等级是40
+2022-11-21 15:12:51,377-dologer.py:[40]-[CRITICAL]-我是CRITICAL级别的日志，等级是50
+2022-11-21 16:22:24,974-dologer.py:[32]-[DEBUG]-我是DEBUG级别的日志，等级是10
+2022-11-21 16:22:24,975-dologer.py:[34]-[INFO]-我是INFO级别的日志，等级是20
+2022-11-21 16:22:24,975-dologer.py:[36]-[WARNING]-我是WARNING级别的日志，等级是30
+2022-11-21 16:22:24,975-dologer.py:[38]-[ERROR]-我是ERROR级别的日志，等级是40
+2022-11-21 16:22:24,975-dologer.py:[40]-[CRITICAL]-我是CRITICAL级别的日志，等级是50
+2022-11-21 16:38:50,609-basePage.py:[29]-[INFO]-未发生异常页面打开成功：http://www.baidu.com
+2022-11-21 16:48:52,549-basePage.py:[30]-[INFO]-未发生异常页面打开成功：http://www.baidu.com
+2022-11-21 16:48:53,343-basePage.py:[41]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'kw')
+2022-11-21 16:48:53,707-basePage.py:[53]-[DEBUG]-输入内容成功
+2022-11-21 17:03:19,971-basePage.py:[30]-[INFO]-未发生异常页面打开成功：http://www.baidu.com
+2022-11-21 17:03:20,727-basePage.py:[41]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'kw')
+2022-11-21 17:03:20,999-basePage.py:[53]-[DEBUG]-输入内容成功
+2022-11-21 17:03:21,061-basePage.py:[41]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'su')
+2022-11-21 17:03:21,275-basePage.py:[87]-[DEBUG]-点击成功
+2022-11-21 17:03:23,836-basePage.py:[76]-[DEBUG]-截图成功D:/pythonCoding/webAutoProject\data/photos/2022_11_21 17_03_151.png
+2022-11-21 17:03:23,866-basePage.py:[41]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'su')
+2022-11-21 17:03:23,885-basePage.py:[64]-[DEBUG]-文本获取成功：
+2022-11-21 17:04:28,233-basePage.py:[30]-[INFO]-未发生异常页面打开成功：http://www.baidu.com
+2022-11-21 17:04:28,615-basePage.py:[41]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'kw')
+2022-11-21 17:04:29,061-basePage.py:[53]-[DEBUG]-输入内容成功
+2022-11-21 17:04:29,339-basePage.py:[41]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'su')
+2022-11-21 17:04:29,427-basePage.py:[87]-[DEBUG]-点击成功
+2022-11-21 17:04:32,323-basePage.py:[76]-[DEBUG]-截图成功D:/pythonCoding/webAutoProject\data/photos/2022_11_21 17_04_241.png
+2022-11-21 17:04:32,348-basePage.py:[41]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'su')
+2022-11-21 17:04:32,364-basePage.py:[64]-[DEBUG]-文本获取成功：
+2022-11-21 17:06:58,778-basePage.py:[30]-[INFO]-未发生异常页面打开成功：http://www.baidu.com
+2022-11-21 17:06:58,784-basePage.py:[37]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('id', 'kw')
+2022-11-21 17:06:58,785-basePage.py:[50]-[ERROR]-输入内容失败：python
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-21 17:06:58,789-basePage.py:[37]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('id', 'su')
+2022-11-21 17:06:58,790-basePage.py:[84]-[ERROR]-点击失败('id', 'su')
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-21 17:06:58,805-basePage.py:[73]-[ERROR]-截图失败:D:/pythonCoding/webAutoProject\data/photos/2022_11_21 17_06_391.png失败信息是Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+2022-11-21 17:06:58,842-basePage.py:[37]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('id', 'kw')
+2022-11-21 17:06:58,842-basePage.py:[61]-[ERROR]-获取文本失败；('id', 'kw')
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-21 17:07:18,679-basePage.py:[30]-[INFO]-未发生异常页面打开成功：http://www.baidu.com
+2022-11-21 17:07:19,086-basePage.py:[41]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'kw')
+2022-11-21 17:07:19,483-basePage.py:[53]-[DEBUG]-输入内容成功
+2022-11-21 17:07:19,583-basePage.py:[41]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'kw')
+2022-11-21 17:07:19,601-basePage.py:[64]-[DEBUG]-文本获取成功：
+2022-11-21 17:07:19,628-basePage.py:[41]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'su')
+2022-11-21 17:07:19,731-basePage.py:[87]-[DEBUG]-点击成功
+2022-11-21 17:07:19,855-basePage.py:[76]-[DEBUG]-截图成功D:/pythonCoding/webAutoProject\data/photos/2022_11_21 17_07_141.png
+2022-11-21 17:08:32,376-basePage.py:[30]-[INFO]-未发生异常页面打开成功：http://www.baidu.com
+2022-11-21 17:08:32,458-basePage.py:[41]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'kw')
+2022-11-21 17:08:32,741-basePage.py:[53]-[DEBUG]-输入内容成功
+2022-11-21 17:08:33,524-basePage.py:[41]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'kw')
+2022-11-21 17:08:33,563-basePage.py:[64]-[DEBUG]-文本获取成功：
+2022-11-21 17:08:33,590-basePage.py:[41]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'su')
+2022-11-21 17:08:33,707-basePage.py:[87]-[DEBUG]-点击成功
+2022-11-21 17:08:33,907-basePage.py:[76]-[DEBUG]-截图成功D:/pythonCoding/webAutoProject\data/photos/2022_11_21 17_08_191.png
+2022-11-21 17:14:07,620-basePage.py:[30]-[INFO]-未发生异常页面打开成功：http://www.baidu.com
+2022-11-21 17:15:35,600-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://www.baidu.com
+2022-11-21 17:15:35,776-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'kw')
+2022-11-21 17:15:36,073-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-21 17:15:36,663-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'kw')
+2022-11-21 17:15:36,703-basePage.py:[65]-[DEBUG]-文本获取成功：
+2022-11-21 17:15:36,731-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'su')
+2022-11-21 17:15:36,808-basePage.py:[88]-[DEBUG]-点击成功
+2022-11-21 17:15:37,108-basePage.py:[77]-[DEBUG]-截图成功D:/pythonCoding/webAutoProject\data/photos/2022_11_21 17_15_231.png
+2022-11-21 17:16:45,787-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://www.baidu.com
+2022-11-21 17:18:36,543-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://www.baidu.com
+2022-11-21 17:18:37,177-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'kw')
+2022-11-21 17:18:37,385-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-21 17:18:37,532-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'kw')
+2022-11-21 17:18:37,549-basePage.py:[65]-[DEBUG]-文本获取成功：
+2022-11-21 17:18:37,575-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'su')
+2022-11-21 17:18:37,735-basePage.py:[88]-[DEBUG]-点击成功
+2022-11-21 17:18:37,903-basePage.py:[77]-[DEBUG]-截图成功D:/pythonCoding/webAutoProject\data/photos/2022_11_21 17_18_291.png
+2022-11-21 17:19:07,012-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://www.baidu.com
+2022-11-21 17:19:08,725-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'kw')
+2022-11-21 17:19:08,904-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-21 17:19:08,961-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'kw')
+2022-11-21 17:19:08,996-basePage.py:[65]-[DEBUG]-文本获取成功：
+2022-11-21 17:19:09,075-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'su')
+2022-11-21 17:19:09,201-basePage.py:[88]-[DEBUG]-点击成功
+2022-11-21 17:19:09,334-basePage.py:[77]-[DEBUG]-截图成功D:/pythonCoding/webAutoProject\data/photos/2022_11_21 17_18_571.png
+2022-11-21 17:30:12,631-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://www.baidu.com
+2022-11-21 17:30:12,790-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'kw')
+2022-11-21 17:30:13,019-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-21 17:30:18,105-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('id', 's-usersetting-top')
+2022-11-21 17:30:18,105-basePage.py:[62]-[ERROR]-获取文本失败；('id', 's-usersetting-top')
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-21 17:30:18,138-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'su')
+2022-11-21 17:30:18,240-basePage.py:[88]-[DEBUG]-点击成功
+2022-11-21 17:30:18,583-basePage.py:[77]-[DEBUG]-截图成功D:/pythonCoding/webAutoProject\data/photos/2022_11_21 17_30_071.png
+2022-11-21 17:30:42,599-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/dashboard
+2022-11-21 17:31:55,364-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://www.baidu.com
+2022-11-21 17:31:56,138-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 's-usersetting-top')
+2022-11-21 17:31:56,169-basePage.py:[65]-[DEBUG]-文本获取成功：设置
+2022-11-21 17:31:56,224-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'kw')
+2022-11-21 17:31:56,523-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-21 17:31:56,572-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'su')
+2022-11-21 17:31:56,803-basePage.py:[88]-[DEBUG]-点击成功
+2022-11-21 17:31:57,075-basePage.py:[77]-[DEBUG]-截图成功D:/pythonCoding/webAutoProject\data/photos/2022_11_21 17_31_421.png
+2022-11-21 17:32:06,401-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/dashboard
+2022-11-21 17:35:40,516-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://www.baidu.com
+2022-11-21 17:35:41,164-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 's-usersetting-top')
+2022-11-21 17:35:41,180-basePage.py:[65]-[DEBUG]-文本获取成功：设置
+2022-11-21 17:35:41,213-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'kw')
+2022-11-21 17:35:41,396-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-21 17:35:41,441-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'su')
+2022-11-21 17:35:41,565-basePage.py:[88]-[DEBUG]-点击成功
+2022-11-21 17:35:42,080-basePage.py:[77]-[DEBUG]-截图成功D:/pythonCoding/webAutoProject\data/photos/2022_11_21 17_35_351.png
+2022-11-21 17:35:55,274-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/dashboard
+2022-11-21 17:35:55,463-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.forgot.ng-tns-c1-0')
+2022-11-21 17:35:55,490-basePage.py:[65]-[DEBUG]-文本获取成功：忘记密码？
+2022-11-21 17:36:03,624-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=53409): Max retries exceeded with url: /session/2ada5fd8f71c4b0790fabbf355ba2bcb/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CA260CF130>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('css selector', "[placeholder='请输入手机号码']")
+2022-11-21 17:36:03,624-basePage.py:[51]-[ERROR]-输入内容失败：17319744388
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-21 17:36:11,739-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=53409): Max retries exceeded with url: /session/2ada5fd8f71c4b0790fabbf355ba2bcb/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CA260CF7C0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('css selector', "[placeholder='请输入6-20位账户密码']")
+2022-11-21 17:36:11,739-basePage.py:[51]-[ERROR]-输入内容失败：sunfeiyue2000
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-21 17:36:19,877-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=53409): Max retries exceeded with url: /session/2ada5fd8f71c4b0790fabbf355ba2bcb/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CA260CFE80>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('css selector', "[type='submit']")
+2022-11-21 17:36:19,877-basePage.py:[85]-[ERROR]-点击失败('css selector', "[type='submit']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-21 17:36:28,038-basePage.py:[74]-[ERROR]-截图失败:D:/pythonCoding/webAutoProject\data/photos/2022_11_21 17_35_352.png失败信息是HTTPConnectionPool(host='127.0.0.1', port=53409): Max retries exceeded with url: /session/2ada5fd8f71c4b0790fabbf355ba2bcb/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CA260CFE80>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2022-11-21 17:46:10,532-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://www.baidu.com
+2022-11-21 17:46:11,097-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 's-usersetting-top')
+2022-11-21 17:46:11,115-basePage.py:[65]-[DEBUG]-文本获取成功：设置
+2022-11-21 17:46:11,144-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'kw')
+2022-11-21 17:46:11,318-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-21 17:46:11,350-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('id', 'su')
+2022-11-21 17:46:11,471-basePage.py:[88]-[DEBUG]-点击成功
+2022-11-21 17:46:12,564-basePage.py:[77]-[DEBUG]-截图成功D:/pythonCoding/webAutoProject\data/photos/2022_11_21 17_46_061.png
+2022-11-21 17:46:28,098-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/dashboard
+2022-11-21 17:46:28,276-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.forgot.ng-tns-c1-0')
+2022-11-21 17:46:28,303-basePage.py:[65]-[DEBUG]-文本获取成功：忘记密码？
+2022-11-21 17:46:36,426-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=54068): Max retries exceeded with url: /session/2d759ae86407a4248fc503700ba5f7dc/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001461F1EE130>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('css selector', "input[class$='ng-star-inserted']")
+2022-11-21 17:46:36,427-basePage.py:[51]-[ERROR]-输入内容失败：17319744388
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-21 17:46:44,547-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=54068): Max retries exceeded with url: /session/2d759ae86407a4248fc503700ba5f7dc/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001461F1EE7C0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('css selector', "input[class$='ng-star-inserted']")
+2022-11-21 17:46:44,547-basePage.py:[51]-[ERROR]-输入内容失败：sunfeiyue2000
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-21 17:46:52,668-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=54068): Max retries exceeded with url: /session/2d759ae86407a4248fc503700ba5f7dc/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001461F1EEE80>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('css selector', "[type='submit']")
+2022-11-21 17:46:52,669-basePage.py:[85]-[ERROR]-点击失败('css selector', "[type='submit']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-21 17:47:00,841-basePage.py:[74]-[ERROR]-截图失败:D:/pythonCoding/webAutoProject\data/photos/2022_11_21 17_46_062.png失败信息是HTTPConnectionPool(host='127.0.0.1', port=54068): Max retries exceeded with url: /session/2d759ae86407a4248fc503700ba5f7dc/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001461F1EEE80>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+2022-11-21 17:51:46,146-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/dashboard
+2022-11-21 17:51:46,311-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.forgot.ng-tns-c1-0')
+2022-11-21 17:51:46,335-basePage.py:[65]-[DEBUG]-文本获取成功：忘记密码？
+2022-11-21 17:53:33,929-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/dashboard
+2022-11-21 17:53:34,107-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.forgot.ng-tns-c1-0')
+2022-11-21 17:53:34,128-basePage.py:[65]-[DEBUG]-文本获取成功：忘记密码？
+2022-11-21 17:53:34,166-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-21 17:53:34,377-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-21 17:53:34,405-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-21 17:53:34,542-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-21 17:53:34,570-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-21 17:53:34,641-basePage.py:[88]-[DEBUG]-点击成功
+2022-11-21 17:53:35,151-basePage.py:[77]-[DEBUG]-截图成功D:/pythonCoding/webAutoProject\data/photos/2022_11_21 17_53_192.png
+2022-11-21 20:06:11,536-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：'str' object has no attribute 'driver'
+定位失败信息：('7', '3', '1', '9', '7', '4', '4', '3', '8', '8')
+2022-11-21 20:46:12,250-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/dashboard
+2022-11-21 20:47:03,956-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/dashboard
+2022-11-21 20:49:20,195-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/dashboard
+2022-11-21 20:52:05,171-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/dashboard
+2022-11-21 20:52:05,220-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-21 20:52:05,322-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-21 20:52:05,361-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-21 20:52:05,463-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-21 20:52:05,490-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-21 20:52:05,555-basePage.py:[88]-[DEBUG]-点击成功
+2022-11-21 20:52:05,559-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: invalid argument: 'using' must be a string
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：(('css selector', "[class^='ng-tns-c5-1']"),)
+2022-11-21 20:52:35,215-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/dashboard
+2022-11-21 20:52:35,265-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-21 20:52:35,385-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-21 20:52:35,444-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-21 20:52:35,589-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-21 20:52:35,632-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-21 20:52:35,722-basePage.py:[88]-[DEBUG]-点击成功
+2022-11-21 20:52:35,728-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: invalid argument: 'using' must be a string
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：(('css selector', "[class^='ng-tns-c5-1']"),)
+2022-11-21 20:54:32,624-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/dashboard
+2022-11-21 20:54:32,665-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-21 20:54:32,926-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-21 20:54:32,958-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-21 20:54:33,095-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-21 20:54:33,128-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-21 20:54:33,195-basePage.py:[88]-[DEBUG]-点击成功
+2022-11-21 20:54:33,200-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: invalid argument: 'using' must be a string
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：(('css selector', "[class^='ng-tns-c5-1']"),)
+2022-11-21 20:56:49,297-basePage.py:[31]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-21 20:56:49,340-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-21 20:56:49,457-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-21 20:56:49,505-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-21 20:56:49,631-basePage.py:[54]-[DEBUG]-输入内容成功
+2022-11-21 20:56:49,660-basePage.py:[42]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-21 20:56:49,727-basePage.py:[88]-[DEBUG]-点击成功
+2022-11-21 20:56:49,733-basePage.py:[38]-[ERROR]-定位元素失败异常信息是：Message: invalid argument: 'using' must be a string
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：(('css selector', "[class^='ng-tns-c5-1']"),)

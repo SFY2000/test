@@ -1,0 +1,7 @@
+test_login_name_pwd_ok (demo.testCase.Test_login.TestLogin) ... ok
+test_login_name_pwd_kong (demo.testCase.Test_login.TestLogin) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 115.008s
+
+OK

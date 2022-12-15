@@ -1,0 +1,1401 @@
+2022-11-23 17:42:11,342-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 17:42:11,343-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 18:04:10,047-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 18:04:10,047-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 18:04:17,397-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//span[text()='学员管理']")
+2022-11-23 18:04:17,397-basePage.py:[95]-[ERROR]-点击失败('xpath', "//span[text()='学员管理']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:04:22,464-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='学员档案']")
+2022-11-23 18:04:22,464-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='学员档案']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:04:27,574-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='招生跟进']")
+2022-11-23 18:04:27,574-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='招生跟进']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:04:32,587-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='学员费用']")
+2022-11-23 18:04:32,587-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='学员费用']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:04:34,059-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 18:04:34,059-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 18:04:41,199-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//span[text()='学员管理']")
+2022-11-23 18:04:41,200-basePage.py:[95]-[ERROR]-点击失败('xpath', "//span[text()='学员管理']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:04:46,216-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='学员档案']")
+2022-11-23 18:04:46,216-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='学员档案']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:04:47,454-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+定位失败信息：('xpath', "//div[text()='招生跟进']")
+2022-11-23 18:04:47,455-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='招生跟进']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:04:55,621-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=51183): Max retries exceeded with url: /session/4fd557d9957cdc5eaa4ae552984c0a6e/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022104E51520>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('xpath', "//div[text()='学员费用']")
+2022-11-23 18:04:55,621-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='学员费用']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:04:58,811-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 18:04:58,811-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 18:05:02,692-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('xpath', "//span[text()='学员管理']")
+2022-11-23 18:05:02,692-basePage.py:[95]-[ERROR]-点击失败('xpath', "//span[text()='学员管理']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:05:02,714-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('xpath', "//div[text()='学员档案']")
+2022-11-23 18:05:02,714-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='学员档案']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:05:02,722-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('xpath', "//div[text()='招生跟进']")
+2022-11-23 18:05:02,723-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='招生跟进']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:05:02,734-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('xpath', "//div[text()='学员费用']")
+2022-11-23 18:05:02,734-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='学员费用']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:05:02,740-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('xpath', "//div[text()='导入/导出']")
+2022-11-23 18:05:02,740-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='导入/导出']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:05:02,746-basePage.py:[35]-[CRITICAL]-异常发生，页面打开失败，失败内容时是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+失败的页面是http://139.199.0.102/dashboard
+2022-11-23 18:05:25,154-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 18:05:25,155-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 18:05:35,673-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/dashboard
+2022-11-23 18:05:45,990-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//span[text()='学员管理']")
+2022-11-23 18:05:45,990-basePage.py:[95]-[ERROR]-点击失败('xpath', "//span[text()='学员管理']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:05:47,310-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+定位失败信息：('xpath', "//div[text()='学员档案']")
+2022-11-23 18:05:47,310-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='学员档案']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:05:55,509-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=51264): Max retries exceeded with url: /session/c233e6569c0e2cb83752549f1bae6e3f/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF607F19D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('xpath', "//div[text()='招生跟进']")
+2022-11-23 18:05:55,510-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='招生跟进']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:06:03,657-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=51264): Max retries exceeded with url: /session/c233e6569c0e2cb83752549f1bae6e3f/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF6081E1F0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('xpath', "//div[text()='学员费用']")
+2022-11-23 18:06:03,658-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='学员费用']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:06:11,799-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=51264): Max retries exceeded with url: /session/c233e6569c0e2cb83752549f1bae6e3f/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AF6081E8B0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('xpath', "//div[text()='导入/导出']")
+2022-11-23 18:06:11,799-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='导入/导出']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:06:50,598-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 18:06:50,598-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 18:07:00,666-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/stu/stuAdmin
+2022-11-23 18:07:03,418-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+定位失败信息：('xpath', "//span[text()='学员管理']")
+2022-11-23 18:07:03,418-basePage.py:[95]-[ERROR]-点击失败('xpath', "//span[text()='学员管理']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:07:11,556-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=51374): Max retries exceeded with url: /session/0d8d193366baa628b2dd6e6076e3a347/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025CA1E056D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('xpath', "//div[text()='学员档案']")
+2022-11-23 18:07:11,556-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='学员档案']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:07:19,700-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=51374): Max retries exceeded with url: /session/0d8d193366baa628b2dd6e6076e3a347/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025CA1E2A160>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('xpath', "//div[text()='招生跟进']")
+2022-11-23 18:07:19,700-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='招生跟进']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:07:27,818-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=51374): Max retries exceeded with url: /session/0d8d193366baa628b2dd6e6076e3a347/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025CA1E2A820>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('xpath', "//div[text()='学员费用']")
+2022-11-23 18:07:27,818-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='学员费用']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:07:35,933-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=51374): Max retries exceeded with url: /session/0d8d193366baa628b2dd6e6076e3a347/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025CA1E05BE0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('xpath', "//div[text()='导入/导出']")
+2022-11-23 18:07:35,933-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='导入/导出']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:10:16,311-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 18:10:16,311-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 18:10:16,312-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 18:10:16,312-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 18:10:16,312-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 18:10:16,312-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 18:10:16,312-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 18:10:16,312-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 18:10:16,312-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 18:10:26,382-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 18:10:26,558-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 18:10:26,828-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 18:10:26,886-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 18:10:26,983-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 18:10:27,010-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 18:10:27,082-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:10:29,162-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 18:10:29,396-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:10:30,363-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员档案']")
+2022-11-23 18:10:30,547-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:10:30,613-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='招生跟进']")
+2022-11-23 18:10:30,764-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:10:30,850-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员费用']")
+2022-11-23 18:10:31,023-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:10:31,129-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='导入/导出']")
+2022-11-23 18:10:32,762-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:13:43,734-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 18:13:43,734-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 18:13:43,735-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 18:13:43,735-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 18:13:43,735-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 18:13:43,735-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 18:13:43,735-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 18:13:43,735-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 18:13:43,735-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 18:13:54,653-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 18:13:54,827-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 18:13:55,086-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 18:13:55,119-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 18:13:55,221-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 18:13:55,248-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 18:13:55,315-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:13:57,273-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 18:13:57,483-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:13:58,099-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员档案']")
+2022-11-23 18:13:58,583-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:13:58,643-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='招生跟进']")
+2022-11-23 18:13:58,762-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:13:58,823-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员费用']")
+2022-11-23 18:13:58,996-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:13:59,119-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='导入/导出']")
+2022-11-23 18:14:00,487-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:35:54,979-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 18:35:54,979-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 18:35:54,980-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 18:35:54,980-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 18:35:54,980-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 18:35:54,980-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 18:35:54,980-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 18:35:54,980-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 18:35:54,980-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 18:36:05,419-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 18:36:05,598-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 18:36:05,856-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 18:36:05,888-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 18:36:06,016-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 18:36:06,049-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 18:36:06,126-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:36:07,835-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 18:36:08,048-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:36:09,015-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员档案']")
+2022-11-23 18:36:09,163-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:36:09,227-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='全部学员']")
+2022-11-23 18:36:09,331-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:36:19,444-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.placeholder.ng-untouched']")
+2022-11-23 18:36:19,444-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-23 18:36:29,607-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn.ant-btn-default']")
+2022-11-23 18:36:29,607-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn.ant-btn-default']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:36:29,661-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='待跟进学员']")
+2022-11-23 18:36:29,806-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:36:39,956-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.placeholder.ng-untouched']")
+2022-11-23 18:36:39,956-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-23 18:36:50,109-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn.ant-btn-default']")
+2022-11-23 18:36:50,109-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn.ant-btn-default']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:36:50,158-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='在读学员']")
+2022-11-23 18:36:50,450-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:37:00,654-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.placeholder.ng-untouched']")
+2022-11-23 18:37:00,654-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-23 18:37:06,652-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn.ant-btn-default']")
+2022-11-23 18:37:06,652-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn.ant-btn-default']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:37:09,193-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 18:37:09,193-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 18:37:09,193-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 18:37:09,193-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 18:37:09,194-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 18:37:09,194-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 18:37:09,194-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 18:37:09,194-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 18:37:09,194-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 18:37:19,634-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 18:37:19,826-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 18:37:20,082-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 18:37:20,113-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 18:37:20,228-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 18:37:20,254-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 18:37:20,398-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:37:22,077-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 18:37:22,279-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:37:23,417-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员档案']")
+2022-11-23 18:37:23,945-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:37:26,993-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='全部学员']")
+2022-11-23 18:37:27,062-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:37:37,184-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.placeholder.ng-untouched']")
+2022-11-23 18:37:37,184-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-23 18:37:47,312-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn.ant-btn-default']")
+2022-11-23 18:37:47,312-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn.ant-btn-default']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:37:50,473-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='待跟进学员']")
+2022-11-23 18:37:50,580-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:38:00,714-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.placeholder.ng-untouched']")
+2022-11-23 18:38:00,715-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-23 18:38:10,863-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn.ant-btn-default']")
+2022-11-23 18:38:10,863-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn.ant-btn-default']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:38:10,925-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='在读学员']")
+2022-11-23 18:38:11,075-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:38:21,222-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.placeholder.ng-untouched']")
+2022-11-23 18:38:21,222-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-23 18:38:31,341-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn.ant-btn-default']")
+2022-11-23 18:38:31,341-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn.ant-btn-default']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:38:31,396-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='流失学员']")
+2022-11-23 18:38:31,584-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:38:41,719-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.placeholder.ng-untouched']")
+2022-11-23 18:38:41,719-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-23 18:38:52,115-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn.ant-btn-default']")
+2022-11-23 18:38:52,115-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn.ant-btn-default']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:41:07,380-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 18:41:07,380-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 18:41:07,381-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 18:41:07,381-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 18:41:07,381-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 18:41:07,381-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 18:41:07,381-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 18:41:07,381-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 18:41:07,381-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 18:41:17,729-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 18:41:17,931-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 18:41:18,076-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 18:41:18,123-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 18:41:18,224-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 18:41:18,252-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 18:41:18,316-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:41:20,138-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 18:41:20,337-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:41:21,401-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员档案']")
+2022-11-23 18:41:21,544-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:41:24,580-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='全部学员']")
+2022-11-23 18:41:24,649-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:41:27,690-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='待跟进学员']")
+2022-11-23 18:41:27,771-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:41:27,804-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='在读学员']")
+2022-11-23 18:41:27,872-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:41:27,907-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='流失学员']")
+2022-11-23 18:41:28,020-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:41:38,163-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.placeholder.ng-untouched']")
+2022-11-23 18:41:38,163-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-23 18:41:48,311-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn.ant-btn-default']")
+2022-11-23 18:41:48,311-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn.ant-btn-default']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 18:44:30,526-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 18:44:30,527-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 18:44:30,527-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 18:44:30,527-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 18:44:30,527-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 18:44:30,527-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 18:44:30,528-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 18:44:30,528-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 18:44:30,528-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 18:44:40,615-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 18:44:40,809-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 18:44:40,964-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 18:44:41,001-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 18:44:41,100-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 18:44:41,128-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 18:44:41,196-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:44:42,880-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 18:44:43,100-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:44:43,692-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员档案']")
+2022-11-23 18:44:44,156-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:44:47,205-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='全部学员']")
+2022-11-23 18:44:47,275-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:44:50,328-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='待跟进学员']")
+2022-11-23 18:44:50,414-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:44:50,446-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='在读学员']")
+2022-11-23 18:44:50,510-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:44:50,545-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='流失学员']")
+2022-11-23 18:44:50,649-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:45:00,896-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.placeholder.ng-untouched']")
+2022-11-23 18:45:00,896-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-23 18:45:00,930-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[placeholder='请输入学员姓名、昵称、联系电话、招生老师']")
+2022-11-23 18:45:01,059-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:57:19,465-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 18:57:19,465-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 18:57:19,466-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 18:57:19,466-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 18:57:19,466-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 18:57:19,466-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 18:57:19,466-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 18:57:19,466-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 18:57:19,466-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 18:57:40,884-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 18:57:41,044-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 18:57:41,279-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 18:57:41,310-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 18:57:41,416-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 18:57:41,441-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 18:57:41,508-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:57:44,357-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 18:57:44,806-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:57:46,652-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员档案']")
+2022-11-23 18:57:47,238-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:57:50,290-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='全部学员']")
+2022-11-23 18:57:50,387-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:57:53,428-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='待跟进学员']")
+2022-11-23 18:57:53,502-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:57:53,534-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='在读学员']")
+2022-11-23 18:57:53,608-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:57:53,645-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='流失学员']")
+2022-11-23 18:57:53,753-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 18:58:03,910-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.placeholder.ng-untouched']")
+2022-11-23 18:58:03,910-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-23 18:58:03,946-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[placeholder='请输入学员姓名、昵称、联系电话、招生老师']")
+2022-11-23 18:58:04,057-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:01:20,762-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:01:20,763-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:01:20,763-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:01:20,763-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:01:20,763-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:01:20,763-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:01:20,763-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:01:20,763-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:01:20,763-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:02:08,202-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:02:10,286-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:02:10,286-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:02:10,287-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:02:10,287-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:02:10,287-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:02:10,287-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:02:10,287-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:02:10,287-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:02:10,287-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:03:37,186-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:03:37,366-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 19:03:37,510-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:03:37,549-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 19:03:37,652-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:03:37,678-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 19:03:37,746-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:03:39,676-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 19:03:39,824-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:03:44,869-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='学员档案']")
+2022-11-23 19:03:44,869-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='学员档案']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:03:58,034-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='全部学员']")
+2022-11-23 19:03:58,034-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='全部学员']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:04:11,209-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='待跟进学员']")
+2022-11-23 19:04:11,209-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='待跟进学员']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:04:11,245-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='在读学员']")
+2022-11-23 19:04:11,413-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:04:11,476-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='流失学员']")
+2022-11-23 19:04:11,533-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:04:11,727-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[placeholder='请输入学员姓名、昵称、联系电话、招生老师']")
+2022-11-23 19:04:11,841-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=107.0.5304.88)
+
+2022-11-23 19:04:21,975-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:04:21,975-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:07:41,493-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:07:41,493-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:07:41,494-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:07:41,494-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:07:41,494-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:07:41,495-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:07:41,495-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:07:41,495-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:07:41,495-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:09:18,961-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:10:07,036-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:10:07,036-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:10:07,037-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:10:07,037-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:10:07,037-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:10:07,037-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:10:07,037-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:10:07,037-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:10:07,037-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:11:01,589-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:11:01,758-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 19:11:01,956-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:11:01,990-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 19:11:02,096-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:11:02,121-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 19:11:02,186-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:11:12,287-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 19:11:12,399-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:11:14,878-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员档案']")
+2022-11-23 19:11:16,065-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:11:16,115-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='全部学员']")
+2022-11-23 19:11:16,236-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:11:16,396-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='待跟进学员']")
+2022-11-23 19:11:16,794-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:11:16,842-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='在读学员']")
+2022-11-23 19:11:16,924-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:11:16,971-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='流失学员']")
+2022-11-23 19:11:18,117-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='流失学员']")
+失败信息是：Message: element click intercepted: Element <div _ngcontent-c20="" class="name">...</div> is not clickable at point (617, 70). Other element would receive the click: <div style="display:flex;width: 100%;height: 100%;position: fixed;top: 0;
+     left: 0;z-index: 9999;justify-content: center;align-items: center;background: #ffffff40;">...</div>
+  (Session info: chrome=107.0.5304.88)
+
+2022-11-23 19:11:18,148-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:11:18,251-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:11:28,387-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:11:28,387-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:12:09,797-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:12:09,797-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:12:09,797-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:12:09,797-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:12:09,798-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:12:09,798-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:12:09,798-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:12:09,798-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:12:09,798-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:12:51,659-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:12:51,848-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 19:12:51,984-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:12:52,018-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 19:12:52,122-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:12:52,148-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 19:12:52,214-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:13:02,308-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 19:13:02,431-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:13:07,521-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='学员档案']")
+2022-11-23 19:13:07,522-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='学员档案']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:13:17,679-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='全部学员']")
+2022-11-23 19:13:17,679-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='全部学员']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:13:27,854-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='待跟进学员']")
+2022-11-23 19:13:27,854-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='待跟进学员']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:13:27,893-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='在读学员']")
+2022-11-23 19:13:28,059-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:13:28,101-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='流失学员']")
+2022-11-23 19:13:28,155-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:13:28,323-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:13:28,404-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=107.0.5304.88)
+
+2022-11-23 19:13:38,545-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:13:38,545-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:14:18,502-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:14:18,503-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:14:18,503-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:14:18,503-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:14:18,503-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:14:18,503-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:14:18,504-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:14:18,504-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:14:18,504-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:14:53,614-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:14:53,791-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 19:14:54,034-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:14:54,067-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 19:14:54,171-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:14:54,199-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 19:14:54,268-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:15:04,297-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 19:15:04,423-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:15:09,448-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='学员档案']")
+2022-11-23 19:15:09,448-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='学员档案']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:15:19,620-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='全部学员']")
+2022-11-23 19:15:19,620-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='全部学员']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:15:29,789-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='待跟进学员']")
+2022-11-23 19:15:29,789-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='待跟进学员']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:15:29,826-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='在读学员']")
+2022-11-23 19:15:29,978-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:15:33,024-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='流失学员']")
+2022-11-23 19:15:34,089-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='流失学员']")
+失败信息是：Message: element click intercepted: Element <div _ngcontent-c20="" class="name">...</div> is not clickable at point (617, 70). Other element would receive the click: <div style="display:flex;width: 100%;height: 100%;position: fixed;top: 0;
+     left: 0;z-index: 9999;justify-content: center;align-items: center;background: #ffffff40;">...</div>
+  (Session info: chrome=107.0.5304.88)
+
+2022-11-23 19:15:34,121-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:15:34,221-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:15:44,422-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:15:44,422-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:16:09,380-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:16:09,380-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:16:09,380-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:16:09,381-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:16:09,381-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:16:09,381-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:16:09,381-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:16:09,381-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:16:09,381-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:16:37,868-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:16:38,041-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 19:16:38,196-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:16:38,243-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 19:16:38,352-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:16:38,379-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 19:16:38,445-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:16:45,312-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 19:16:46,055-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:16:48,114-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员档案']")
+2022-11-23 19:16:49,183-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='学员档案']")
+失败信息是：Message: element click intercepted: Element <div _ngcontent-c8="" class="dis ng-star-inserted">...</div> is not clickable at point (60, 161). Other element would receive the click: <div style="display:flex;width: 100%;height: 100%;position: fixed;top: 0;
+     left: 0;z-index: 9999;justify-content: center;align-items: center;background: #ffffff40;">...</div>
+  (Session info: chrome=107.0.5304.88)
+
+2022-11-23 19:16:59,335-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='全部学员']")
+2022-11-23 19:16:59,335-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='全部学员']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:17:09,477-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='待跟进学员']")
+2022-11-23 19:17:09,477-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='待跟进学员']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:17:09,510-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='在读学员']")
+2022-11-23 19:17:09,665-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:17:09,703-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='流失学员']")
+2022-11-23 19:17:09,759-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:17:12,799-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:17:12,905-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:17:23,038-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:17:23,038-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:24:39,852-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:24:39,853-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:24:39,853-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:24:39,853-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:24:39,853-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:24:39,854-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:24:39,854-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:24:39,854-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:24:39,854-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:25:16,621-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:25:16,792-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 19:25:17,043-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:25:17,077-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 19:25:17,182-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:25:17,208-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 19:25:17,273-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:25:27,210-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 19:25:27,306-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:25:39,460-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[style='position: relative; overflow: hidden; width: 468px; height: 128px; padding: 0px; margin: 0px; border-width: 0px; cursor: default']")
+2022-11-23 19:25:39,460-basePage.py:[95]-[ERROR]-点击失败('css selector', "[style='position: relative; overflow: hidden; width: 468px; height: 128px; padding: 0px; margin: 0px; border-width: 0px; cursor: default']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:25:41,498-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员档案']")
+2022-11-23 19:25:41,651-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:25:41,693-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='招生跟进']")
+2022-11-23 19:25:41,790-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:25:41,864-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员费用']")
+2022-11-23 19:25:42,010-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:25:42,070-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='导入/导出']")
+2022-11-23 19:25:43,137-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='导入/导出']")
+失败信息是：Message: element click intercepted: Element <div _ngcontent-c8="" class="dis ng-star-inserted">...</div> is not clickable at point (60, 251). Other element would receive the click: <div style="display:flex;width: 100%;height: 100%;position: fixed;top: 0;
+     left: 0;z-index: 9999;justify-content: center;align-items: center;background: #ffffff40;">...</div>
+  (Session info: chrome=107.0.5304.88)
+
+2022-11-23 19:28:00,464-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:28:00,464-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:28:00,465-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:28:00,465-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:28:00,465-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:28:00,465-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:28:00,465-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:28:00,465-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:28:00,465-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:28:32,615-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:28:32,782-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 19:28:33,033-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:28:33,064-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 19:28:33,166-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:28:33,192-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 19:28:33,257-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:28:43,427-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//span[text()='学员管理']")
+2022-11-23 19:28:43,427-basePage.py:[95]-[ERROR]-点击失败('xpath', "//span[text()='学员管理']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:28:55,575-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//span[text()='报名率:37%']")
+2022-11-23 19:28:55,575-basePage.py:[95]-[ERROR]-点击失败('xpath', "//span[text()='报名率:37%']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:29:02,622-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='学员档案']")
+2022-11-23 19:29:02,623-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='学员档案']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:29:07,635-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='招生跟进']")
+2022-11-23 19:29:07,635-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='招生跟进']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:29:12,701-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='学员费用']")
+2022-11-23 19:29:12,701-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='学员费用']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:29:17,719-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='导入/导出']")
+2022-11-23 19:29:17,719-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='导入/导出']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:29:22,387-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:29:22,387-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:29:22,388-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:29:22,388-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:29:22,388-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:29:22,388-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:29:22,388-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:29:22,388-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:29:22,388-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:29:54,579-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:29:54,752-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 19:29:54,964-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:29:54,995-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 19:29:55,097-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:29:55,124-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 19:29:55,191-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:30:05,323-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//span[text()='学员管理']")
+2022-11-23 19:30:05,323-basePage.py:[95]-[ERROR]-点击失败('xpath', "//span[text()='学员管理']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:30:17,455-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//span[text()='报名率:37%']")
+2022-11-23 19:30:17,455-basePage.py:[95]-[ERROR]-点击失败('xpath', "//span[text()='报名率:37%']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:30:24,544-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='学员档案']")
+2022-11-23 19:30:24,544-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='学员档案']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:30:29,637-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='招生跟进']")
+2022-11-23 19:30:29,637-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='招生跟进']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:30:34,721-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='学员费用']")
+2022-11-23 19:30:34,721-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='学员费用']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:30:39,768-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='导入/导出']")
+2022-11-23 19:30:39,768-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='导入/导出']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:31:06,712-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:31:06,712-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:31:06,713-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:31:06,713-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:31:06,713-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:31:06,713-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:31:06,713-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:31:06,713-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:31:06,713-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:31:49,953-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:31:50,128-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 19:31:50,261-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:31:50,298-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 19:31:50,398-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:31:50,425-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 19:31:50,491-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:32:00,633-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//span[text()='学员管理']")
+2022-11-23 19:32:00,633-basePage.py:[95]-[ERROR]-点击失败('xpath', "//span[text()='学员管理']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:32:11,276-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//span[text()='报名率:37%']")
+2022-11-23 19:32:11,276-basePage.py:[95]-[ERROR]-点击失败('xpath', "//span[text()='报名率:37%']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:32:16,308-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='学员档案']")
+2022-11-23 19:32:16,308-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='学员档案']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:32:21,354-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='招生跟进']")
+2022-11-23 19:32:21,354-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='招生跟进']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:32:23,575-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('xpath', "//div[text()='学员费用']")
+2022-11-23 19:32:23,575-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='学员费用']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:32:23,589-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('xpath', "//div[text()='导入/导出']")
+2022-11-23 19:32:23,590-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='导入/导出']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:32:35,567-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:32:35,567-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:32:35,568-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:32:35,568-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:32:35,568-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:32:35,568-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:32:35,568-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:32:35,569-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:32:35,569-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:32:47,503-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:32:47,764-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 19:32:47,986-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:32:48,038-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 19:32:48,157-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:32:48,193-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 19:32:48,284-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:32:50,645-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 19:32:50,961-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:32:53,033-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员档案']")
+2022-11-23 19:32:53,304-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:32:53,432-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='招生跟进']")
+2022-11-23 19:32:53,836-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:32:54,552-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员费用']")
+2022-11-23 19:32:54,750-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:32:54,838-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='导入/导出']")
+2022-11-23 19:32:55,745-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:33:39,385-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:33:39,385-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:33:39,386-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:33:39,386-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:33:39,386-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:33:39,386-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:33:39,386-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:33:39,386-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:33:39,387-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:33:49,778-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:33:49,957-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 19:33:50,204-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:33:50,235-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 19:33:50,348-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:33:50,373-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 19:33:50,439-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:33:52,058-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 19:33:52,255-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:34:02,405-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//span[text()='报名率:37%']")
+2022-11-23 19:34:02,405-basePage.py:[95]-[ERROR]-点击失败('xpath', "//span[text()='报名率:37%']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:34:02,439-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='招生跟进']")
+2022-11-23 19:34:02,614-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:34:02,662-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员费用']")
+2022-11-23 19:34:02,842-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:34:02,968-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='导入/导出']")
+2022-11-23 19:34:04,066-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:35:09,973-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:35:09,973-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:35:09,974-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:35:09,974-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:35:09,974-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:35:09,974-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:35:09,975-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:35:09,975-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:35:09,975-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:35:16,584-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:35:32,040-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:35:32,040-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:35:32,040-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:35:32,040-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:35:32,041-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:35:32,041-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:35:32,041-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:35:32,041-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:35:32,041-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:35:43,098-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:35:43,265-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 19:35:43,471-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:35:43,504-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 19:35:43,615-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:35:43,642-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 19:35:43,707-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:35:45,904-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 19:35:46,145-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:35:47,124-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='天']")
+2022-11-23 19:35:47,828-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:35:49,879-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员档案']")
+2022-11-23 19:35:49,994-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:35:50,037-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='招生跟进']")
+2022-11-23 19:35:50,156-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:35:50,206-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员费用']")
+2022-11-23 19:35:50,391-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:35:50,487-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='导入/导出']")
+2022-11-23 19:35:52,337-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='导入/导出']")
+失败信息是：Message: element click intercepted: Element <div _ngcontent-c8="" class="dis ng-star-inserted">...</div> is not clickable at point (60, 251). Other element would receive the click: <div style="display:flex;width: 100%;height: 100%;position: fixed;top: 0;
+     left: 0;z-index: 9999;justify-content: center;align-items: center;background: #ffffff40;">...</div>
+  (Session info: chrome=107.0.5304.88)
+
+2022-11-23 19:39:52,087-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:39:52,087-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:39:52,088-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:39:52,088-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:39:52,088-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:39:52,088-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:39:52,088-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:39:52,088-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:39:52,088-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:40:05,040-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:40:05,209-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 19:40:05,439-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:40:05,473-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 19:40:05,575-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:40:05,602-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 19:40:05,670-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:40:08,381-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 19:40:08,829-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:40:09,583-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员档案']")
+2022-11-23 19:40:10,134-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:40:10,240-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='全部学员']")
+2022-11-23 19:40:10,529-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:40:10,621-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:40:10,761-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=107.0.5304.88)
+
+2022-11-23 19:40:20,902-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:40:20,902-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:40:23,947-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='待跟进学员']")
+2022-11-23 19:40:24,030-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:40:24,056-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:40:24,359-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:40:34,477-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:40:34,477-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:40:37,530-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='在读学员']")
+2022-11-23 19:40:37,618-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:40:37,650-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:40:37,817-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:40:42,055-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:40:42,055-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:40:42,055-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:40:42,056-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:40:42,056-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:40:42,056-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:40:42,056-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:40:42,056-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:40:42,056-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:40:52,444-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:40:52,610-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 19:40:52,818-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:40:52,847-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 19:40:52,950-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:40:52,976-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 19:40:53,054-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:40:54,846-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 19:40:55,060-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:40:55,646-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员档案']")
+2022-11-23 19:40:56,112-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:40:56,167-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='全部学员']")
+2022-11-23 19:40:56,271-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:40:59,317-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:40:59,439-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:41:09,576-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:41:09,576-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:41:12,630-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='待跟进学员']")
+2022-11-23 19:41:12,741-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:41:13,070-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:41:13,429-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:41:23,561-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:41:23,561-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:41:26,606-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='在读学员']")
+2022-11-23 19:41:26,683-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:41:26,954-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:41:27,169-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:41:38,934-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:41:38,934-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:41:50,082-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=63438): Max retries exceeded with url: /session/6157946fd6e8c1d8e65b58989f15a72e/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BFD709D400>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('xpath', "//div[text()='流失学员']")
+2022-11-23 19:41:50,083-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='流失学员']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:42:01,217-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=63438): Max retries exceeded with url: /session/6157946fd6e8c1d8e65b58989f15a72e/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BFD709DAC0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:42:01,217-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-23 19:42:07,832-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:42:07,832-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:42:07,833-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:42:07,833-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:42:07,833-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:42:07,833-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:42:07,833-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:42:07,833-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:42:07,833-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:42:18,013-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:42:18,190-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 19:42:18,440-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:42:18,472-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 19:42:18,594-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:42:18,621-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 19:42:18,722-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:42:20,420-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 19:42:20,611-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:42:22,200-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员档案']")
+2022-11-23 19:42:22,656-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:42:22,702-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='全部学员']")
+2022-11-23 19:42:22,801-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:42:24,848-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:42:24,952-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:42:35,092-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:42:35,092-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:42:37,140-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='待跟进学员']")
+2022-11-23 19:42:37,231-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:42:39,265-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:42:39,381-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:42:49,546-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:42:49,546-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:42:51,586-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='在读学员']")
+2022-11-23 19:42:51,667-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:42:53,750-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:42:53,897-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:42:56,753-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:42:56,753-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:43:06,946-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=63615): Max retries exceeded with url: /session/8a7f500f60b2e762bdf8170cbc9462a2/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FE3D7C3400>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('xpath', "//div[text()='流失学员']")
+2022-11-23 19:43:06,947-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='流失学员']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:43:17,068-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=63615): Max retries exceeded with url: /session/8a7f500f60b2e762bdf8170cbc9462a2/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FE3D7C3AC0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:43:17,068-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-23 19:43:25,204-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=63615): Max retries exceeded with url: /session/8a7f500f60b2e762bdf8170cbc9462a2/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FE3D8221C0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:43:25,205-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:43:27,755-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:43:27,755-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:43:27,756-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:43:27,756-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:43:27,756-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:43:27,756-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:43:27,756-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:43:27,757-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:43:27,757-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:43:46,504-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:43:46,689-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 19:43:46,971-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:43:47,015-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 19:43:47,127-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:43:47,155-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 19:43:47,231-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:43:48,853-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 19:43:49,092-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:43:50,227-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员档案']")
+2022-11-23 19:43:50,377-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:43:50,440-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='全部学员']")
+2022-11-23 19:43:50,537-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:43:52,585-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:43:52,696-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:44:03,834-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:44:03,834-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:44:05,875-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='待跟进学员']")
+2022-11-23 19:44:05,969-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:44:07,995-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:44:08,151-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:44:19,318-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:44:19,318-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:44:21,359-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='在读学员']")
+2022-11-23 19:44:21,441-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:44:23,483-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:44:23,587-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:44:34,740-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:44:34,740-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:44:36,779-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='流失学员']")
+2022-11-23 19:44:36,858-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:44:38,884-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:44:38,968-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:44:50,187-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:44:50,188-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:44:50,188-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:44:50,188-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:44:50,188-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:44:50,188-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:44:50,188-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:44:50,188-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:44:50,189-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:45:00,760-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:45:00,969-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 19:45:01,221-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:45:01,264-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 19:45:01,400-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:45:01,438-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 19:45:01,525-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:45:03,397-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 19:45:03,658-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:45:04,687-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员档案']")
+2022-11-23 19:45:04,812-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:45:04,874-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='全部学员']")
+2022-11-23 19:45:04,963-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:45:07,011-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:45:07,122-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:45:19,250-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:45:19,250-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:45:21,356-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='待跟进学员']")
+2022-11-23 19:45:21,486-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:45:23,495-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:45:23,495-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-23 19:45:25,499-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:45:25,499-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:45:27,510-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('xpath', "//div[text()='在读学员']")
+2022-11-23 19:45:27,510-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='在读学员']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:45:29,519-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:45:29,519-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-23 19:45:31,534-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:45:31,534-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:45:33,544-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('xpath', "//div[text()='流失学员']")
+2022-11-23 19:45:33,544-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='流失学员']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:45:35,554-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:45:35,554-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-23 19:45:37,565-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:45:37,565-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:46:06,866-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:46:06,866-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:46:06,867-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:46:06,867-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:46:06,867-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:46:06,867-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:46:06,867-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:46:06,867-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:46:06,867-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:46:17,593-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:46:17,774-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 19:46:18,084-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:46:18,117-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 19:46:18,218-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:46:18,244-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 19:46:18,316-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:46:20,122-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 19:46:20,328-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:46:21,278-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员档案']")
+2022-11-23 19:46:21,462-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:46:21,513-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='全部学员']")
+2022-11-23 19:46:21,608-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:46:23,642-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:46:23,752-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:46:36,907-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:46:36,907-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:46:36,945-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='待跟进学员']")
+2022-11-23 19:46:37,021-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:46:39,061-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:46:39,164-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:46:52,932-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:46:52,932-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:47:03,098-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=64074): Max retries exceeded with url: /session/e7e11b4f3ba7d5854e51a30c6733d59c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002485EA93190>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('xpath', "//div[text()='在读学员']")
+2022-11-23 19:47:03,099-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='在读学员']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:47:13,248-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=64074): Max retries exceeded with url: /session/e7e11b4f3ba7d5854e51a30c6733d59c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002485EA93820>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:47:13,248-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-23 19:47:21,388-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=64074): Max retries exceeded with url: /session/e7e11b4f3ba7d5854e51a30c6733d59c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002485EA93EE0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:47:21,389-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:47:26,082-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:47:26,082-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:47:26,083-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:47:26,083-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:47:26,083-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:47:26,083-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:47:26,083-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:47:26,083-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:47:26,083-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:47:37,178-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:47:37,359-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 19:47:37,566-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:47:37,597-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 19:47:37,703-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:47:37,729-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 19:47:37,796-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:47:39,956-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 19:47:40,212-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:47:41,158-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员档案']")
+2022-11-23 19:47:41,319-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:47:41,391-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='全部学员']")
+2022-11-23 19:47:41,503-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:47:46,547-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:47:46,722-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:47:56,901-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:47:56,901-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:47:56,938-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='待跟进学员']")
+2022-11-23 19:47:57,024-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:48:02,067-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:48:02,185-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:48:12,314-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:48:12,314-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:48:12,351-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='在读学员']")
+2022-11-23 19:48:12,428-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:48:17,461-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:48:17,590-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:48:27,722-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:48:27,722-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:48:27,766-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='流失学员']")
+2022-11-23 19:48:27,914-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:48:32,923-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:48:32,923-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-23 19:48:32,925-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:48:32,925-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:50:00,616-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-23 19:50:00,616-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-23 19:50:00,617-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-23 19:50:00,617-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-23 19:50:00,617-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-23 19:50:00,617-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-2.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:50:00,617-doExcel.py:[48]-[DEBUG]-读取文件成功.ng-tns-c9-1.ng-trigger.ng-trigger-formExplainAnimation
+2022-11-23 19:50:00,617-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-title>span
+2022-11-23 19:50:00,617-doExcel.py:[48]-[DEBUG]-读取文件成功.abt-modal-confirm-btns>button
+2022-11-23 19:50:12,882-basePage.py:[39]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-23 19:50:13,058-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-23 19:50:13,271-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:50:13,302-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-23 19:50:13,404-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:50:13,430-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-23 19:50:13,496-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:50:15,139-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//span[text()='学员管理']")
+2022-11-23 19:50:15,318-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:50:16,534-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='学员档案']")
+2022-11-23 19:50:16,652-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:50:16,707-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='全部学员']")
+2022-11-23 19:50:16,819-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:50:18,059-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:50:18,182-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:50:28,332-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:50:28,332-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:50:33,391-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='待跟进学员']")
+2022-11-23 19:50:33,512-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:50:34,589-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:50:34,712-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:50:44,861-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:50:44,861-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:50:49,924-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='在读学员']")
+2022-11-23 19:50:50,036-basePage.py:[98]-[DEBUG]-点击成功
+2022-11-23 19:50:51,262-basePage.py:[52]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:50:51,399-basePage.py:[64]-[DEBUG]-输入内容成功
+2022-11-23 19:50:55,426-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:50:55,426-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:51:08,600-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=64406): Max retries exceeded with url: /session/a39cf48f75d2b30cab64c66aea6f3883/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A464763400>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('xpath', "//div[text()='流失学员']")
+2022-11-23 19:51:08,601-basePage.py:[95]-[ERROR]-点击失败('xpath', "//div[text()='流失学员']")
+失败信息是：'NoneType' object has no attribute 'click'
+2022-11-23 19:51:17,775-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=64406): Max retries exceeded with url: /session/a39cf48f75d2b30cab64c66aea6f3883/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A464763AC0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('css selector', '.placeholder.ng-untouched.ng-pristine.ng-valid.ant-input.ng-star-inserted')
+2022-11-23 19:51:17,776-basePage.py:[61]-[ERROR]-输入内容失败：大黄
+失败原因是'NoneType' object has no attribute 'send_keys'
+2022-11-23 19:51:25,946-basePage.py:[48]-[ERROR]-定位元素失败异常信息是：HTTPConnectionPool(host='127.0.0.1', port=64406): Max retries exceeded with url: /session/a39cf48f75d2b30cab64c66aea6f3883/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A4647C21C0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+定位失败信息：('css selector', "[class^='.c-secondary.ant-btn']")
+2022-11-23 19:51:25,947-basePage.py:[95]-[ERROR]-点击失败('css selector', "[class^='.c-secondary.ant-btn']")
+失败信息是：'NoneType' object has no attribute 'click'

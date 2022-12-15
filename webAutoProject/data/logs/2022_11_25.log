@@ -1,0 +1,1632 @@
+2022-11-25 10:50:30,973-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 10:50:30,973-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 10:50:30,986-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 10:50:30,987-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 10:50:30,989-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 10:50:30,989-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 10:50:30,989-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 10:50:30,989-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 10:50:30,990-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 10:50:30,990-doExcel.py:[48]-[DEBUG]-读取文件成功17319744388
+2022-11-25 10:50:30,990-doExcel.py:[48]-[DEBUG]-读取文件成功1211211111
+2022-11-25 10:50:30,990-doExcel.py:[48]-[DEBUG]-读取文件成功173197
+2022-11-25 10:50:30,991-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 10:50:30,991-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 10:50:30,991-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 10:50:30,991-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 10:50:30,991-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 10:50:30,991-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 10:50:30,991-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 10:50:30,991-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 10:50:43,027-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 10:50:43,082-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 10:50:43,215-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 10:50:43,263-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 10:50:43,417-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 10:50:43,461-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 10:50:43,541-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 10:51:13,591-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-25 10:51:13,612-basePage.py:[83]-[DEBUG]-文本获取成功：请输入手机号码
+2022-11-25 10:58:56,076-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 10:58:56,076-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 10:58:56,083-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 10:58:56,083-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 10:58:56,083-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 10:58:56,084-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 10:58:56,084-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 10:58:56,084-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 10:58:56,084-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 10:58:56,084-doExcel.py:[48]-[DEBUG]-读取文件成功17319744388
+2022-11-25 10:58:56,084-doExcel.py:[48]-[DEBUG]-读取文件成功1211211111
+2022-11-25 10:58:56,084-doExcel.py:[48]-[DEBUG]-读取文件成功173197
+2022-11-25 10:58:56,084-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 10:58:56,084-doExcel.py:[48]-[DEBUG]-读取文件成功1731974438899
+2022-11-25 10:58:56,084-doExcel.py:[48]-[DEBUG]-读取文件成功121121sunfeiyue2000123456
+2022-11-25 10:58:56,084-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 10:58:56,085-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 10:58:56,085-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 10:58:56,085-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 10:58:56,085-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 10:58:56,085-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 10:58:56,085-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 10:59:06,348-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 10:59:06,414-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 10:59:06,730-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 10:59:06,778-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 10:59:06,997-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 10:59:07,031-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 10:59:07,126-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 10:59:47,273-basePage.py:[56]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', '/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-25 10:59:47,273-basePage.py:[80]-[ERROR]-获取文本失败；('xpath', '/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-25 11:00:28,924-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 11:00:28,924-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 11:00:28,929-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 11:00:28,930-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 11:00:28,930-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 11:00:28,930-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 11:00:28,930-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 11:00:28,930-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 11:00:28,930-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 11:00:28,930-doExcel.py:[48]-[DEBUG]-读取文件成功17319744388
+2022-11-25 11:00:28,930-doExcel.py:[48]-[DEBUG]-读取文件成功1211211111
+2022-11-25 11:00:28,931-doExcel.py:[48]-[DEBUG]-读取文件成功173197
+2022-11-25 11:00:28,931-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 11:00:28,931-doExcel.py:[48]-[DEBUG]-读取文件成功1731974438899
+2022-11-25 11:00:28,931-doExcel.py:[48]-[DEBUG]-读取文件成功121121sunfeiyue2000123456
+2022-11-25 11:00:28,931-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 11:00:28,931-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 11:00:28,931-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 11:00:28,931-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 11:00:28,931-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 11:00:28,931-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 11:00:28,931-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 11:00:39,394-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 11:00:39,444-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 11:00:39,657-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 11:00:39,697-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 11:00:39,865-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 11:00:39,892-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 11:00:39,963-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 11:01:10,014-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span')
+2022-11-25 11:01:10,034-basePage.py:[83]-[DEBUG]-文本获取成功：用户名或密码错误，请重新输入！
+2022-11-25 11:01:10,065-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button')
+2022-11-25 11:01:10,204-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 11:02:01,724-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 11:02:01,725-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 11:02:01,730-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 11:02:01,731-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 11:02:01,731-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 11:02:01,732-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 11:02:01,732-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 11:02:01,732-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 11:02:01,732-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 11:02:01,732-doExcel.py:[48]-[DEBUG]-读取文件成功17319744388
+2022-11-25 11:02:01,732-doExcel.py:[48]-[DEBUG]-读取文件成功1211211111
+2022-11-25 11:02:01,733-doExcel.py:[48]-[DEBUG]-读取文件成功173197
+2022-11-25 11:02:01,733-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 11:02:01,733-doExcel.py:[48]-[DEBUG]-读取文件成功1731974438899
+2022-11-25 11:02:01,733-doExcel.py:[48]-[DEBUG]-读取文件成功121121sunfeiyue2000123456
+2022-11-25 11:02:01,733-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 11:02:01,733-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 11:02:01,733-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 11:02:01,734-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 11:02:01,734-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 11:02:01,734-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 11:02:01,734-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 11:02:12,638-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 11:02:12,690-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 11:02:12,835-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 11:02:12,884-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 11:02:12,980-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 11:02:13,011-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 11:02:13,090-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 11:02:43,147-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span')
+2022-11-25 11:02:43,166-basePage.py:[83]-[DEBUG]-文本获取成功：用户名或密码错误，请重新输入！
+2022-11-25 11:02:43,194-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button')
+2022-11-25 11:02:43,294-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 11:55:00,584-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 11:55:00,584-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 11:55:00,591-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 11:55:00,591-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 11:55:00,592-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 11:55:00,592-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 11:55:00,592-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 11:55:00,592-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 11:55:00,592-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 11:55:00,592-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 11:55:00,593-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 11:55:00,593-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 11:55:00,593-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 11:55:00,594-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 11:55:00,594-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 11:55:00,594-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 11:55:00,594-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 11:55:00,594-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 11:55:00,594-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 11:55:00,594-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 11:55:00,594-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 11:55:00,595-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 11:55:00,595-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 11:55:00,595-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 11:55:00,595-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 11:55:00,595-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 11:55:00,595-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 11:55:00,595-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 11:55:00,595-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 11:55:00,595-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 11:55:00,595-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 11:55:00,595-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 11:55:00,595-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 11:55:00,595-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 11:55:00,596-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 11:55:00,596-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 11:55:00,596-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 11:55:00,596-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 11:55:00,596-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 11:55:00,596-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 11:55:15,949-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 11:55:16,151-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 11:55:16,432-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 11:55:16,466-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 11:55:16,589-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 11:55:16,619-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 11:55:16,700-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:05:26,966-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 12:05:26,967-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 12:05:26,973-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 12:05:26,973-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 12:05:26,974-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 12:05:26,974-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 12:05:26,974-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 12:05:26,974-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 12:05:26,974-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 12:05:26,974-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 12:05:26,974-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 12:05:26,974-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 12:05:26,974-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 12:05:26,975-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 12:05:26,975-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 12:05:26,975-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 12:05:26,975-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 12:05:26,975-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 12:05:26,975-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 12:05:26,975-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 12:05:26,975-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 12:05:26,975-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 12:05:26,975-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 12:05:26,975-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 12:05:26,975-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 12:05:26,975-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 12:05:26,976-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 12:05:26,976-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 12:05:26,976-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 12:05:26,976-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 12:05:26,976-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 12:05:26,976-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 12:05:26,976-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 12:05:26,976-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 12:05:26,976-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 12:05:26,976-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 12:05:26,976-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 12:05:26,976-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 12:05:26,977-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 12:05:26,977-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 12:05:38,595-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 12:05:38,667-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 12:05:38,918-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:05:38,959-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 12:05:39,070-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:05:39,111-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 12:05:39,181-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:05:59,224-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-25 12:05:59,242-basePage.py:[83]-[DEBUG]-文本获取成功：请输入手机号码
+2022-11-25 12:05:59,271-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-25 12:05:59,289-basePage.py:[83]-[DEBUG]-文本获取成功：请输入6-20位账户密码
+2022-11-25 12:06:07,839-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 12:06:07,839-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 12:06:07,847-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 12:06:07,847-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 12:06:07,848-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 12:06:07,848-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 12:06:07,848-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 12:06:07,848-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 12:06:07,848-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 12:06:07,848-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 12:06:07,848-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 12:06:07,848-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 12:06:07,849-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 12:06:07,849-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 12:06:07,849-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 12:06:07,849-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 12:06:07,849-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 12:06:07,849-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 12:06:07,849-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 12:06:07,849-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 12:06:07,849-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 12:06:07,849-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 12:06:07,849-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 12:06:07,849-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 12:06:07,849-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 12:06:07,849-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 12:06:07,850-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 12:06:07,850-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 12:06:07,850-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 12:06:07,850-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 12:06:07,850-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 12:06:07,850-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 12:06:07,850-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 12:06:07,850-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 12:06:07,850-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 12:06:07,850-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 12:06:07,850-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 12:06:07,850-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 12:06:07,850-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 12:06:07,851-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 12:06:22,488-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 12:06:22,544-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 12:06:22,790-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:06:22,826-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 12:06:22,950-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:06:22,978-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 12:06:23,051-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:06:33,092-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span')
+2022-11-25 12:06:33,110-basePage.py:[83]-[DEBUG]-文本获取成功：用户名或密码错误，请重新输入！
+2022-11-25 12:06:33,137-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button')
+2022-11-25 12:06:33,235-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:06:34,334-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 12:06:34,409-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 12:06:34,474-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:06:34,533-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 12:06:34,642-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:06:34,707-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 12:06:35,101-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:06:55,146-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-25 12:06:55,165-basePage.py:[83]-[DEBUG]-文本获取成功：请输入手机号码
+2022-11-25 12:06:55,194-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-25 12:06:55,214-basePage.py:[83]-[DEBUG]-文本获取成功：请输入6-20位账户密码
+2022-11-25 12:06:56,268-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 12:06:56,398-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 12:06:56,480-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:06:56,508-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 12:06:56,621-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:06:56,653-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 12:06:56,988-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:07:27,039-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-25 12:07:27,058-basePage.py:[83]-[DEBUG]-文本获取成功：请输入手机号码
+2022-11-25 12:07:30,937-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 12:07:31,108-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 12:07:31,225-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:07:31,248-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 12:07:31,367-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:07:31,395-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 12:07:31,756-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:07:54,824-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.teachHeadPic.ng-star-inserted')
+2022-11-25 12:07:55,236-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='退出账号']")
+2022-11-25 12:07:55,367-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:07:55,406-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.ant-modal-confirm-btns>button:nth-child(2)')
+2022-11-25 12:07:55,553-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:07:59,358-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 12:07:59,389-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 12:07:59,537-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:07:59,566-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 12:07:59,684-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:07:59,717-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 12:08:00,179-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:08:10,215-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span')
+2022-11-25 12:08:10,236-basePage.py:[83]-[DEBUG]-文本获取成功：用户名或密码错误，请重新输入！
+2022-11-25 12:08:10,268-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button')
+2022-11-25 12:08:10,370-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:08:11,166-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 12:08:11,197-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 12:08:11,368-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:08:11,396-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 12:08:11,499-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:08:11,532-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 12:08:11,922-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:08:41,984-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-25 12:08:42,005-basePage.py:[83]-[DEBUG]-文本获取成功：请输入6-20位账户密码
+2022-11-25 12:08:42,911-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 12:08:42,992-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 12:08:43,152-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:08:43,187-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 12:08:43,292-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:08:43,333-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 12:08:43,681-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:08:53,728-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span')
+2022-11-25 12:08:53,750-basePage.py:[83]-[DEBUG]-文本获取成功：用户名或密码错误，请重新输入！
+2022-11-25 12:08:53,781-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button')
+2022-11-25 12:08:53,892-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:08:54,789-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 12:08:54,881-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 12:08:54,986-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:08:55,035-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 12:08:55,137-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:08:55,170-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 12:08:55,516-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:09:15,568-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-25 12:09:15,593-basePage.py:[83]-[DEBUG]-文本获取成功：请输入手机号码
+2022-11-25 12:09:15,626-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-25 12:09:15,643-basePage.py:[83]-[DEBUG]-文本获取成功：请输入6-20位账户密码
+2022-11-25 12:09:16,522-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 12:09:16,602-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 12:09:16,745-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:09:16,773-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 12:09:16,944-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:09:16,978-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 12:09:17,260-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:09:47,315-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span')
+2022-11-25 12:09:47,341-basePage.py:[83]-[DEBUG]-文本获取成功：用户名或密码错误，请重新输入！
+2022-11-25 12:09:47,383-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button')
+2022-11-25 12:09:47,496-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:09:48,261-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 12:09:48,311-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 12:09:48,634-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:09:48,668-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 12:09:48,789-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:09:48,820-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 12:09:49,086-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:10:19,143-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-25 12:10:19,164-basePage.py:[83]-[DEBUG]-文本获取成功：请输入6-20位账户密码
+2022-11-25 12:10:20,004-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 12:10:20,041-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 12:10:20,279-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:10:20,316-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 12:10:20,516-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:10:20,548-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 12:10:20,759-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:10:50,811-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span')
+2022-11-25 12:10:50,839-basePage.py:[83]-[DEBUG]-文本获取成功：用户名或密码错误，请重新输入！
+2022-11-25 12:10:50,869-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button')
+2022-11-25 12:10:50,993-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:10:52,191-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 12:10:53,109-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 12:10:53,259-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 12:10:53,519-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:10:53,613-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 12:10:54,072-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:10:54,146-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 12:10:54,235-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:11:24,297-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-25 12:11:24,316-basePage.py:[83]-[DEBUG]-文本获取成功：请输入手机号码
+2022-11-25 12:17:09,743-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 12:17:09,743-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 12:17:09,754-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 12:17:09,754-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 12:17:09,755-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 12:17:09,755-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 12:17:09,755-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 12:17:09,755-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 12:17:09,755-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 12:17:09,756-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 12:17:09,756-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 12:17:09,756-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 12:17:09,756-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 12:17:09,756-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 12:17:09,756-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 12:17:09,756-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 12:17:09,757-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 12:17:09,757-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 12:17:09,757-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 12:17:09,757-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 12:17:09,757-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 12:17:09,757-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 12:17:09,757-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 12:17:09,758-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 12:17:09,758-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 12:17:09,758-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 12:17:09,758-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 12:17:09,758-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 12:17:09,758-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 12:17:09,758-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 12:17:09,758-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 12:17:09,759-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 12:17:09,759-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 12:17:09,759-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 12:17:09,759-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 12:17:09,759-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 12:17:09,759-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 12:17:09,759-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 12:17:09,759-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 12:17:09,759-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 12:17:31,868-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 12:17:31,921-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 12:17:32,274-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:17:32,314-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 12:17:32,424-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 12:17:32,452-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 12:17:32,538-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 12:18:02,590-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span')
+2022-11-25 12:18:02,608-basePage.py:[83]-[DEBUG]-文本获取成功：用户名或密码错误，请重新输入！
+2022-11-25 12:18:02,637-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button')
+2022-11-25 12:18:02,751-basePage.py:[106]-[DEBUG]-点击成功
+2022-11-25 16:44:03,984-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 16:44:03,984-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 16:44:03,995-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 16:44:03,995-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 16:44:03,995-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 16:44:03,995-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 16:44:03,996-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 16:44:03,996-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 16:44:03,996-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 16:44:03,996-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 16:44:03,996-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 16:44:03,996-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 16:44:03,996-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 16:44:03,996-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 16:44:03,996-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 16:44:03,997-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 16:44:03,997-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 16:44:03,997-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 16:44:03,997-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 16:44:03,997-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 16:44:03,997-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 16:44:03,997-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 16:44:03,997-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 16:44:03,997-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 16:44:03,998-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 16:44:03,998-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 16:44:03,998-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 16:44:03,998-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 16:44:03,998-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 16:44:03,998-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 16:44:03,998-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 16:44:03,998-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 16:44:03,998-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 16:44:03,999-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 16:44:03,999-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 16:44:03,999-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 16:44:03,999-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 16:44:03,999-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 16:44:03,999-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 16:44:04,000-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 17:29:53,852-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:29:53,852-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:29:53,861-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:29:53,861-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:29:53,861-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 17:29:53,861-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 17:29:53,862-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 17:29:53,862-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:29:53,862-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:29:53,862-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:29:53,862-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:29:53,862-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:29:53,862-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:29:53,862-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:29:53,862-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:29:53,862-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:29:53,863-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:29:53,863-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:29:53,863-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 17:29:53,863-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:29:53,863-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 17:29:53,863-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:29:53,863-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:29:53,863-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:29:53,863-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 17:29:53,863-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:29:53,863-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:29:53,864-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:29:53,864-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:29:53,864-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:29:53,864-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:29:53,864-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:29:53,864-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:29:53,864-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 17:29:53,864-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 17:29:53,864-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 17:29:53,864-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:29:53,864-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:29:53,864-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 17:29:53,865-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 17:30:14,093-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:30:14,093-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:30:14,100-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:30:14,100-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:30:14,101-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 17:30:14,101-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 17:30:14,101-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 17:30:14,101-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:30:14,101-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:30:14,101-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:30:14,101-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:30:14,101-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:30:14,102-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:30:14,102-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:30:14,102-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:30:14,102-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:30:14,102-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:30:14,102-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:30:14,102-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 17:30:14,102-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:30:14,102-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 17:30:14,102-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:30:14,102-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:30:14,102-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:30:14,102-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 17:30:14,103-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:30:14,103-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:30:14,103-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:30:14,103-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:30:14,103-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:30:14,103-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:30:14,103-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:30:14,103-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:30:14,103-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 17:30:14,103-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 17:30:14,103-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 17:30:14,103-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:30:14,104-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:30:14,104-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 17:30:14,104-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 17:38:31,155-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:38:31,155-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:38:31,162-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:38:31,162-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:38:31,163-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 17:38:31,163-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 17:38:31,163-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 17:38:31,163-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:38:31,163-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:38:31,163-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:38:31,163-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:38:31,163-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:38:31,163-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:38:31,163-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:38:31,164-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:38:31,164-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:38:31,164-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:38:31,164-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:38:31,164-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 17:38:31,164-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:38:31,164-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 17:38:31,164-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:38:31,164-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:38:31,164-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:38:31,164-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 17:38:31,164-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:38:31,164-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:38:31,165-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:38:31,165-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:38:31,165-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:38:31,165-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:38:31,165-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:38:31,165-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:38:31,165-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 17:38:31,165-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 17:38:31,165-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 17:38:31,165-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:38:31,165-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:38:31,165-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 17:38:31,165-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 17:39:07,054-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:39:07,054-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:39:07,061-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:39:07,061-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:39:07,062-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 17:39:07,062-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 17:39:07,062-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 17:39:07,062-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:39:07,062-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:39:07,062-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:39:07,062-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:39:07,062-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:39:07,062-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:39:07,062-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:39:07,062-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:39:07,062-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:39:07,063-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:39:07,063-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:39:07,063-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 17:39:07,063-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:39:07,063-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 17:39:07,063-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:39:07,063-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:39:07,063-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:39:07,063-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 17:39:07,063-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:39:07,063-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:39:07,063-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:39:07,064-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:39:07,064-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:39:07,064-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:39:07,064-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:39:07,064-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:39:07,064-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 17:39:07,064-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 17:39:07,064-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 17:39:07,064-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:39:07,064-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:39:07,064-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 17:39:07,064-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 17:40:05,341-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:40:05,341-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:40:05,348-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:40:05,348-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:40:05,349-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 17:40:05,349-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 17:40:05,349-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 17:40:05,350-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:40:05,350-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:40:05,350-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:40:05,350-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:40:05,350-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:40:05,350-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:40:05,350-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:40:05,350-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:40:05,350-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:40:05,350-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:40:05,351-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:40:05,351-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 17:40:05,351-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:40:05,351-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 17:40:05,351-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:40:05,351-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:40:05,351-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:40:05,351-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 17:40:05,351-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:40:05,351-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:40:05,351-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:40:05,352-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:40:05,352-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:40:05,352-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:40:05,352-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:40:05,352-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:40:05,352-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 17:40:05,352-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 17:40:05,352-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 17:40:05,352-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:40:05,352-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:40:05,352-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 17:40:05,352-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 17:40:43,958-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:40:43,958-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:40:43,966-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:40:43,966-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:40:43,967-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 17:40:43,967-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 17:40:43,967-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 17:40:43,967-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:40:43,967-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:40:43,967-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:40:43,967-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:40:43,967-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:40:43,967-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:40:43,967-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:40:43,968-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:40:43,968-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:40:43,968-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:40:43,968-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:40:43,968-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 17:40:43,968-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:40:43,968-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 17:40:43,968-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:40:43,968-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:40:43,968-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:40:43,968-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 17:40:43,968-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:40:43,968-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:40:43,968-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:40:43,968-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:40:43,969-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:40:43,969-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:40:43,969-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:40:43,969-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:40:43,969-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 17:40:43,969-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 17:40:43,969-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 17:40:43,969-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:40:43,969-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:40:43,969-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 17:40:43,969-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 17:41:11,810-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:41:11,811-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:41:11,821-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:41:11,821-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:41:11,822-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 17:41:11,822-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 17:41:11,822-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 17:41:11,822-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:41:11,822-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:41:11,822-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:41:11,822-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:41:11,822-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:41:11,822-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:41:11,822-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:41:11,823-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:41:11,823-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:41:11,823-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:41:11,823-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:41:11,823-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 17:41:11,823-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:41:11,823-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 17:41:11,823-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:41:11,823-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:41:11,823-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:41:11,823-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 17:41:11,823-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:41:11,823-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:41:11,824-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:41:11,824-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:41:11,824-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:41:11,824-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:41:11,824-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:41:11,824-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:41:11,824-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 17:41:11,824-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 17:41:11,824-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 17:41:11,824-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:41:11,824-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:41:11,825-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 17:41:11,825-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 17:41:42,821-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:41:42,821-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:41:42,832-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:41:42,832-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:41:42,833-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 17:41:42,833-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 17:41:42,833-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 17:41:42,833-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:41:42,833-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:41:42,833-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:41:42,833-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:41:42,833-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:41:42,833-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:41:42,833-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:41:42,833-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:41:42,833-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:41:42,834-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:41:42,834-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:41:42,834-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 17:41:42,834-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:41:42,834-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 17:41:42,834-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:41:42,834-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:41:42,834-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:41:42,834-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 17:41:42,834-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:41:42,834-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:41:42,834-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:41:42,834-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:41:42,834-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:41:42,835-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:41:42,835-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:41:42,835-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:41:42,835-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 17:41:42,835-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 17:41:42,835-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 17:41:42,835-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:41:42,835-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:41:42,835-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 17:41:42,835-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 17:42:52,469-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:42:52,469-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:42:52,478-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:42:52,479-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:42:52,479-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 17:42:52,480-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 17:42:52,480-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 17:42:52,480-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:42:52,480-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:42:52,480-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:42:52,480-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:42:52,480-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:42:52,480-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:42:52,481-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:42:52,481-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:42:52,481-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:42:52,481-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:42:52,481-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:42:52,481-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 17:42:52,481-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:42:52,481-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 17:42:52,481-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:42:52,482-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:42:52,482-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:42:52,482-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 17:42:52,482-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:42:52,482-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:42:52,482-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:42:52,482-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:42:52,482-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:42:52,482-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:42:52,482-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:42:52,482-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:42:52,482-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 17:42:52,483-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 17:42:52,483-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 17:42:52,483-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:42:52,483-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:42:52,483-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 17:42:52,483-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 17:43:07,071-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:43:07,072-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:43:07,080-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:43:07,080-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:43:07,081-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 17:43:07,081-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 17:43:07,081-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 17:43:07,081-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:43:07,081-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:43:07,082-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:43:07,082-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:43:07,082-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:43:07,082-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:43:07,082-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:43:07,082-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:43:07,082-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:43:07,082-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:43:07,082-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:43:07,082-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 17:43:07,082-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:43:07,083-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 17:43:07,083-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:43:07,083-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:43:07,083-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:43:07,083-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 17:43:07,083-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:43:07,083-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:43:07,083-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:43:07,083-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:43:07,083-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:43:07,083-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:43:07,083-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:43:07,083-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:43:07,084-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 17:43:07,084-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 17:43:07,084-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 17:43:07,084-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:43:07,084-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:43:07,084-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 17:43:07,084-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 17:43:38,028-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:43:38,029-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:43:38,044-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:43:38,045-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:43:38,045-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 17:43:38,045-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 17:43:38,045-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 17:43:38,046-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:43:38,046-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:43:38,047-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:43:38,047-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:43:38,047-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:43:38,047-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:43:38,047-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:43:38,047-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:43:38,047-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:43:38,047-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:43:38,048-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:43:38,048-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 17:43:38,048-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:43:38,048-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 17:43:38,048-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:43:38,048-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:43:38,048-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:43:38,048-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 17:43:38,049-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:43:38,049-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:43:38,049-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:43:38,050-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:43:38,050-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:43:38,050-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:43:38,050-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:43:38,051-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:43:38,051-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 17:43:38,051-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 17:43:38,051-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 17:43:38,051-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:43:38,051-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:43:38,052-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 17:43:38,052-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 17:44:14,592-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:44:14,593-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:44:14,604-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:44:14,604-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:44:14,605-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 17:44:14,605-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 17:44:14,606-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 17:44:14,606-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:44:14,606-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:44:14,606-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:44:14,606-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:44:14,606-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:44:14,606-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:44:14,607-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:44:14,607-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:44:14,607-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:44:14,607-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:44:14,607-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:44:14,607-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 17:44:14,607-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:44:14,607-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 17:44:14,608-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:44:14,608-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:44:14,608-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:44:14,608-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 17:44:14,608-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:44:14,608-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:44:14,608-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:44:14,609-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:44:14,609-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:44:14,609-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:44:14,609-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:44:14,609-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:44:14,609-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 17:44:14,609-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 17:44:14,609-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 17:44:14,610-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:44:14,610-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:44:14,610-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 17:44:14,610-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 17:44:36,480-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:44:36,481-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:44:36,492-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:44:36,492-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:44:36,493-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 17:44:36,493-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 17:44:36,493-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 17:44:36,493-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:44:36,493-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:44:36,493-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:44:36,493-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:44:36,493-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:44:36,493-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:44:36,493-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:44:36,493-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:44:36,494-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:44:36,494-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:44:36,494-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:44:36,494-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 17:44:36,494-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:44:36,494-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 17:44:36,494-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:44:36,494-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:44:36,494-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:44:36,494-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 17:44:36,494-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:44:36,494-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:44:36,494-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:44:36,494-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:44:36,495-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:44:36,495-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:44:36,495-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:44:36,495-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:44:36,495-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 17:44:36,495-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 17:44:36,495-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 17:44:36,495-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:44:36,495-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:44:36,495-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 17:44:36,495-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 17:44:55,491-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 17:44:55,556-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 17:44:55,766-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 17:44:55,811-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 17:44:55,945-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 17:44:55,985-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 17:44:56,017-basePage.py:[107]-[DEBUG]-点击成功
+2022-11-25 17:45:19,066-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.teachHeadPic.ng-star-inserted')
+2022-11-25 17:45:24,722-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='退出账号']")
+2022-11-25 17:45:24,848-basePage.py:[107]-[DEBUG]-点击成功
+2022-11-25 17:45:24,897-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.ant-modal-confirm-btns>button:nth-child(2)')
+2022-11-25 17:45:24,934-basePage.py:[107]-[DEBUG]-点击成功
+2022-11-25 17:45:30,863-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 17:46:04,642-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:46:04,642-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:46:04,656-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:46:04,656-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:46:04,657-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 17:46:04,657-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 17:46:04,657-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 17:46:04,658-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:46:04,658-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:46:04,658-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:46:04,659-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:46:04,659-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:46:04,659-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:46:04,659-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:46:04,659-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:46:04,659-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:46:04,659-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:46:04,659-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:46:04,659-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 17:46:04,660-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:46:04,660-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 17:46:04,660-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:46:04,660-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:46:04,660-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:46:04,660-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 17:46:04,660-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:46:04,660-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:46:04,660-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:46:04,660-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:46:04,661-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:46:04,661-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:46:04,661-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:46:04,661-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:46:04,661-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 17:46:04,661-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 17:46:04,661-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 17:46:04,661-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:46:04,661-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:46:04,661-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 17:46:04,661-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 17:46:31,424-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 17:46:31,512-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 17:46:31,572-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 17:46:31,614-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 17:46:31,684-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 17:46:31,715-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 17:46:31,747-basePage.py:[107]-[DEBUG]-点击成功
+2022-11-25 17:46:51,799-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-25 17:46:51,819-basePage.py:[83]-[DEBUG]-文本获取成功：请输入手机号码
+2022-11-25 17:46:51,847-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-25 17:46:51,866-basePage.py:[83]-[DEBUG]-文本获取成功：请输入6-20位账户密码
+2022-11-25 17:47:10,211-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:47:10,211-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:47:10,220-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 17:47:10,220-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 17:47:10,221-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 17:47:10,221-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 17:47:10,221-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 17:47:10,221-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:47:10,221-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:47:10,221-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:47:10,221-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:47:10,222-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:47:10,222-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:47:10,222-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:47:10,222-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 17:47:10,222-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:47:10,222-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:47:10,222-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:47:10,222-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 17:47:10,222-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 17:47:10,222-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 17:47:10,222-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:47:10,223-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 17:47:10,223-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:47:10,223-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 17:47:10,223-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:47:10,223-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:47:10,223-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 17:47:10,223-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:47:10,223-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 17:47:10,223-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 17:47:10,223-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 17:47:10,224-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 17:47:10,224-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 17:47:10,224-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 17:47:10,224-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 17:47:10,225-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:47:10,225-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 17:47:10,225-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 17:47:10,225-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 17:47:48,438-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 17:47:48,499-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 17:47:48,695-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 17:47:48,738-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 17:47:48,861-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 17:47:48,897-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 17:47:48,952-basePage.py:[107]-[DEBUG]-点击成功
+2022-11-25 17:48:12,024-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.teachHeadPic.ng-star-inserted')
+2022-11-25 17:48:12,466-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//div[text()='退出账号']")
+2022-11-25 17:48:12,535-basePage.py:[107]-[DEBUG]-点击成功
+2022-11-25 17:48:12,577-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.ant-modal-confirm-btns>button:nth-child(2)')
+2022-11-25 17:48:12,625-basePage.py:[107]-[DEBUG]-点击成功
+2022-11-25 17:48:18,858-basePage.py:[47]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 17:48:18,949-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 17:48:19,053-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 17:48:19,094-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 17:48:19,191-basePage.py:[72]-[DEBUG]-输入内容成功
+2022-11-25 17:48:19,229-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 17:48:19,243-basePage.py:[107]-[DEBUG]-点击成功
+2022-11-25 17:48:39,299-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div')
+2022-11-25 17:48:39,323-basePage.py:[83]-[DEBUG]-文本获取成功：请输入手机号码
+2022-11-25 17:48:39,358-basePage.py:[60]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', '/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div')
+2022-11-25 17:48:39,383-basePage.py:[83]-[DEBUG]-文本获取成功：请输入6-20位账户密码
+2022-11-25 21:07:07,507-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 21:07:07,508-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 21:07:07,514-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 21:07:07,514-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 21:07:07,515-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 21:07:07,515-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 21:07:07,515-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 21:07:07,515-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:07:07,515-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:07:07,515-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:07:07,515-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:07:07,515-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:07:07,516-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:07:07,516-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:07:07,516-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:07:07,516-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 21:07:07,516-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:07:07,516-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:07:07,516-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 21:07:07,516-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 21:07:07,516-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 21:07:07,516-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 21:07:07,516-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:07:07,516-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 21:07:07,516-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 21:07:07,516-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:07:07,517-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 21:07:07,517-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:07:07,517-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 21:07:07,517-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 21:07:07,517-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 21:07:07,517-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 21:07:07,517-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 21:07:07,517-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 21:07:07,517-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 21:07:07,517-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 21:07:07,517-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 21:07:07,517-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 21:07:07,518-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 21:07:07,518-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 21:07:17,775-basePage.py:[48]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 21:07:17,833-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 21:07:18,086-basePage.py:[73]-[DEBUG]-输入内容成功
+2022-11-25 21:07:18,117-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 21:07:18,221-basePage.py:[73]-[DEBUG]-输入内容成功
+2022-11-25 21:07:18,253-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 21:07:18,278-basePage.py:[108]-[DEBUG]-点击成功
+2022-11-25 21:11:52,791-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 21:11:52,791-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 21:11:52,798-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 21:11:52,798-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 21:11:52,798-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 21:11:52,798-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 21:11:52,798-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 21:11:52,799-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:11:52,799-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:11:52,799-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:11:52,799-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:11:52,799-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:11:52,799-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:11:52,799-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:11:52,799-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:11:52,799-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 21:11:52,799-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:11:52,799-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:11:52,799-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 21:11:52,799-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 21:11:52,800-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 21:11:52,800-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 21:11:52,800-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:11:52,800-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 21:11:52,800-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 21:11:52,800-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:11:52,800-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 21:11:52,800-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:11:52,800-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 21:11:52,800-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 21:11:52,800-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 21:11:52,800-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 21:11:52,800-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 21:11:52,800-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 21:11:52,801-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 21:11:52,801-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 21:11:52,801-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 21:11:52,801-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 21:11:52,801-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 21:11:52,801-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 21:12:06,641-basePage.py:[48]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 21:12:06,691-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 21:12:06,810-basePage.py:[73]-[DEBUG]-输入内容成功
+2022-11-25 21:12:06,848-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 21:12:06,940-basePage.py:[73]-[DEBUG]-输入内容成功
+2022-11-25 21:12:06,970-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 21:12:06,998-basePage.py:[108]-[DEBUG]-点击成功
+2022-11-25 21:13:10,796-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 21:13:10,796-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 21:13:10,802-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 21:13:10,802-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 21:13:10,803-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 21:13:10,803-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 21:13:10,803-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 21:13:10,803-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:13:10,803-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:13:10,803-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:13:10,803-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:13:10,803-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:13:10,803-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:13:10,803-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:13:10,803-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:13:10,804-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 21:13:10,804-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:13:10,804-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:13:10,804-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 21:13:10,804-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 21:13:10,804-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 21:13:10,804-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 21:13:10,804-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:13:10,804-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 21:13:10,804-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 21:13:10,804-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:13:10,804-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 21:13:10,804-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:13:10,804-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 21:13:10,805-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 21:13:10,805-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 21:13:10,805-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 21:13:10,805-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 21:13:10,805-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 21:13:10,805-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 21:13:10,805-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 21:13:10,805-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 21:13:10,805-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 21:13:10,805-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 21:13:10,805-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 21:13:20,983-basePage.py:[48]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 21:13:21,027-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 21:13:21,280-basePage.py:[73]-[DEBUG]-输入内容成功
+2022-11-25 21:13:21,312-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 21:13:21,415-basePage.py:[73]-[DEBUG]-输入内容成功
+2022-11-25 21:13:21,444-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 21:13:21,469-basePage.py:[108]-[DEBUG]-点击成功
+2022-11-25 21:15:03,319-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 21:15:03,320-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 21:15:03,331-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 21:15:03,332-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 21:15:03,332-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 21:15:03,333-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 21:15:03,333-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 21:15:03,333-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:15:03,333-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:15:03,333-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:15:03,333-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:15:03,334-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:15:03,334-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:15:03,334-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:15:03,334-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:15:03,334-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 21:15:03,334-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:15:03,334-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:15:03,334-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 21:15:03,335-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 21:15:03,335-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 21:15:03,335-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 21:15:03,335-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:15:03,335-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 21:15:03,335-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 21:15:03,335-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:15:03,335-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 21:15:03,336-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:15:03,336-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 21:15:03,336-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 21:15:03,336-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 21:15:03,336-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 21:15:03,336-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 21:15:03,336-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 21:15:03,337-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 21:15:03,337-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 21:15:03,337-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 21:15:03,337-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 21:15:03,337-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 21:15:03,337-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 21:15:13,872-basePage.py:[48]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 21:15:13,921-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 21:15:14,138-basePage.py:[73]-[DEBUG]-输入内容成功
+2022-11-25 21:15:14,183-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 21:15:14,313-basePage.py:[73]-[DEBUG]-输入内容成功
+2022-11-25 21:15:14,346-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 21:15:14,380-basePage.py:[108]-[DEBUG]-点击成功
+2022-11-25 21:15:27,399-basePage.py:[57]-[ERROR]-定位元素失败异常信息是：Message: invalid argument: 'using' must be a string
+  (Session info: chrome=107.0.5304.88)
+
+定位失败信息：(('css selector', '.teachHeadPic.ng-star-inserted'),)
+2022-11-25 21:15:48,854-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 21:15:48,855-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 21:15:48,861-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 21:15:48,861-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 21:15:48,862-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 21:15:48,862-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 21:15:48,862-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 21:15:48,862-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:15:48,862-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:15:48,862-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:15:48,862-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:15:48,862-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:15:48,862-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:15:48,863-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:15:48,863-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:15:48,863-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 21:15:48,863-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:15:48,863-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:15:48,863-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 21:15:48,863-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 21:15:48,863-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 21:15:48,863-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 21:15:48,863-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:15:48,863-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 21:15:48,863-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 21:15:48,863-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:15:48,864-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 21:15:48,864-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:15:48,864-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 21:15:48,864-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 21:15:48,864-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 21:15:48,864-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 21:15:48,864-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 21:15:48,864-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 21:15:48,864-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 21:15:48,864-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 21:15:48,864-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 21:15:48,864-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 21:15:48,864-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 21:15:48,865-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 21:15:59,408-basePage.py:[48]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 21:15:59,461-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 21:15:59,681-basePage.py:[73]-[DEBUG]-输入内容成功
+2022-11-25 21:15:59,713-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 21:15:59,823-basePage.py:[73]-[DEBUG]-输入内容成功
+2022-11-25 21:15:59,849-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 21:15:59,875-basePage.py:[108]-[DEBUG]-点击成功
+2022-11-25 21:16:12,913-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.teachHeadPic.ng-star-inserted')
+2022-11-25 21:16:18,209-basePage.py:[57]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('xpath', "//div[text()='个人信息']")
+2022-11-25 21:16:18,209-basePage.py:[81]-[ERROR]-获取文本失败；('xpath', "//div[text()='个人信息']")
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-25 21:18:14,695-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 21:18:14,695-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 21:18:14,705-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 21:18:14,706-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 21:18:14,706-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 21:18:14,706-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 21:18:14,706-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 21:18:14,706-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:18:14,706-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:18:14,707-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:18:14,707-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:18:14,707-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:18:14,707-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:18:14,707-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:18:14,707-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:18:14,707-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 21:18:14,707-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:18:14,707-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:18:14,707-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 21:18:14,707-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 21:18:14,707-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 21:18:14,708-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 21:18:14,708-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:18:14,708-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 21:18:14,708-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 21:18:14,708-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:18:14,708-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 21:18:14,708-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:18:14,708-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 21:18:14,708-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 21:18:14,708-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 21:18:14,708-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 21:18:14,708-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 21:18:14,709-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 21:18:14,709-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 21:18:14,709-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 21:18:14,709-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 21:18:14,709-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 21:18:14,709-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 21:18:14,709-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 21:18:25,849-basePage.py:[48]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 21:18:25,912-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 21:18:26,171-basePage.py:[73]-[DEBUG]-输入内容成功
+2022-11-25 21:18:26,202-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 21:18:26,315-basePage.py:[73]-[DEBUG]-输入内容成功
+2022-11-25 21:18:26,341-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 21:18:26,367-basePage.py:[108]-[DEBUG]-点击成功
+2022-11-25 21:18:39,412-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.teachHeadPic.ng-star-inserted')
+2022-11-25 21:18:39,788-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//*[@id='headerH']/div[2]/div[5]/div[2]/div[1]")
+2022-11-25 21:18:39,810-basePage.py:[84]-[DEBUG]-文本获取成功：个人信息
+2022-11-25 21:19:25,229-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 21:19:25,229-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 21:19:25,235-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 21:19:25,235-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 21:19:25,236-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 21:19:25,236-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 21:19:25,236-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 21:19:25,236-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:19:25,236-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:19:25,236-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:19:25,237-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:19:25,237-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:19:25,237-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:19:25,237-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:19:25,237-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:19:25,237-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 21:19:25,237-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:19:25,237-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:19:25,237-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 21:19:25,237-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 21:19:25,237-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 21:19:25,237-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 21:19:25,237-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:19:25,237-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 21:19:25,238-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 21:19:25,238-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:19:25,238-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 21:19:25,238-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:19:25,238-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 21:19:25,238-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 21:19:25,238-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 21:19:25,238-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 21:19:25,238-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 21:19:25,238-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 21:19:25,238-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 21:19:25,238-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 21:19:25,238-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 21:19:25,238-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 21:19:25,239-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 21:19:25,239-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 21:19:42,065-basePage.py:[48]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 21:19:42,121-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 21:19:42,353-basePage.py:[73]-[DEBUG]-输入内容成功
+2022-11-25 21:19:42,384-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 21:19:42,490-basePage.py:[73]-[DEBUG]-输入内容成功
+2022-11-25 21:19:42,517-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 21:19:42,542-basePage.py:[108]-[DEBUG]-点击成功
+2022-11-25 21:19:55,582-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', '.teachHeadPic.ng-star-inserted')
+2022-11-25 21:19:55,979-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('xpath', "//*[@id='headerH']/div[2]/div[5]/div[2]/div[1]")
+2022-11-25 21:19:55,998-basePage.py:[84]-[DEBUG]-文本获取成功：个人信息
+2022-11-25 21:21:48,726-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 21:21:48,726-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 21:21:48,732-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 21:21:48,733-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 21:21:48,733-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 21:21:48,733-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 21:21:48,733-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 21:21:48,733-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:21:48,734-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:21:48,734-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:21:48,734-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:21:48,734-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:21:48,734-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:21:48,734-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:21:48,734-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:21:48,734-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 21:21:48,734-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:21:48,734-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:21:48,734-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 21:21:48,735-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 21:21:48,735-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 21:21:48,735-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 21:21:48,735-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:21:48,735-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 21:21:48,735-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 21:21:48,735-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:21:48,735-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 21:21:48,735-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:21:48,735-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 21:21:48,735-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 21:21:48,735-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 21:21:48,735-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 21:21:48,735-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 21:21:48,736-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 21:21:48,736-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 21:21:48,736-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 21:21:48,736-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 21:21:48,736-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 21:21:48,736-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 21:21:48,736-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 21:22:02,900-basePage.py:[48]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 21:22:02,946-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 21:22:03,244-basePage.py:[73]-[DEBUG]-输入内容成功
+2022-11-25 21:22:03,280-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 21:22:03,388-basePage.py:[73]-[DEBUG]-输入内容成功
+2022-11-25 21:22:03,415-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 21:22:03,439-basePage.py:[108]-[DEBUG]-点击成功
+2022-11-25 21:22:26,601-basePage.py:[57]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class*='.nav1.sel']>span")
+2022-11-25 21:22:26,601-basePage.py:[81]-[ERROR]-获取文本失败；('css selector', "[class*='.nav1.sel']>span")
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-25 21:23:03,605-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 21:23:03,606-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 21:23:03,612-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 21:23:03,613-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 21:23:03,613-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 21:23:03,613-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 21:23:03,613-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 21:23:03,613-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:23:03,613-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:23:03,613-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:23:03,613-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:23:03,614-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:23:03,614-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:23:03,614-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:23:03,614-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:23:03,614-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 21:23:03,614-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:23:03,614-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:23:03,614-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 21:23:03,614-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 21:23:03,614-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 21:23:03,614-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 21:23:03,614-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:23:03,614-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 21:23:03,614-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 21:23:03,615-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:23:03,615-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 21:23:03,615-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:23:03,615-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 21:23:03,615-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 21:23:03,615-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 21:23:03,615-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 21:23:03,615-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 21:23:03,615-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 21:23:03,615-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 21:23:03,615-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 21:23:03,615-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 21:23:03,615-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 21:23:03,616-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 21:23:03,616-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 21:23:15,158-basePage.py:[48]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 21:23:15,208-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 21:23:15,425-basePage.py:[73]-[DEBUG]-输入内容成功
+2022-11-25 21:23:15,458-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 21:23:15,565-basePage.py:[73]-[DEBUG]-输入内容成功
+2022-11-25 21:23:15,591-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 21:23:15,622-basePage.py:[108]-[DEBUG]-点击成功
+2022-11-25 21:23:38,774-basePage.py:[57]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class*='.nav1.sel']>span")
+2022-11-25 21:23:38,774-basePage.py:[81]-[ERROR]-获取文本失败；('css selector', "[class*='.nav1.sel']>span")
+错误信息是'NoneType' object has no attribute 'text'
+2022-11-25 21:24:01,750-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 21:24:01,750-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 21:24:01,757-doExcel.py:[31]-[DEBUG]-excel表打开成功
+2022-11-25 21:24:01,757-doExcel.py:[39]-[DEBUG]-sheet页定位成功
+2022-11-25 21:24:01,758-doExcel.py:[48]-[DEBUG]-读取文件成功.teachHeadPic.ng-star-inserted
+2022-11-25 21:24:01,758-doExcel.py:[48]-[DEBUG]-读取文件成功//div[text()='退出账号']
+2022-11-25 21:24:01,758-doExcel.py:[48]-[DEBUG]-读取文件成功.ant-modal-confirm-btns>button:nth-child(2)
+2022-11-25 21:24:01,758-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:24:01,758-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:24:01,758-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:24:01,758-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:24:01,758-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:24:01,759-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:24:01,759-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:24:01,759-doExcel.py:[48]-[DEBUG]-读取文件成功
+2022-11-25 21:24:01,759-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 21:24:01,759-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:24:01,759-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:24:01,759-doExcel.py:[48]-[DEBUG]-读取文件成功125555522
+2022-11-25 21:24:01,759-doExcel.py:[48]-[DEBUG]-读取文件成功13986138138
+2022-11-25 21:24:01,759-doExcel.py:[48]-[DEBUG]-读取文件成功125555523
+2022-11-25 21:24:01,759-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 21:24:01,759-doExcel.py:[48]-[DEBUG]-读取文件成功121121
+2022-11-25 21:24:01,759-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 21:24:01,759-doExcel.py:[48]-[DEBUG]-读取文件成功121122
+2022-11-25 21:24:01,760-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:24:01,760-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 21:24:01,760-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128
+2022-11-25 21:24:01,760-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 21:24:01,760-doExcel.py:[48]-[DEBUG]-读取文件成功13986128128555555555
+2022-11-25 21:24:01,760-doExcel.py:[48]-[DEBUG]-读取文件成功121456789123456789632
+2022-11-25 21:24:01,760-doExcel.py:[48]-[DEBUG]-读取文件成功13986
+2022-11-25 21:24:01,760-doExcel.py:[48]-[DEBUG]-读取文件成功121
+2022-11-25 21:24:01,760-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='userName']
+2022-11-25 21:24:01,760-doExcel.py:[48]-[DEBUG]-读取文件成功[formcontrolname='password']
+2022-11-25 21:24:01,760-doExcel.py:[48]-[DEBUG]-读取文件成功[type='submit']
+2022-11-25 21:24:01,760-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[1]/nz-form-control/div/nz-form-explain/div
+2022-11-25 21:24:01,760-doExcel.py:[48]-[DEBUG]-读取文件成功/html/body/app-root/layout-passport/div/div/passport-login/div/form/nz-form-item[2]/nz-form-control/div/nz-form-explain/div
+2022-11-25 21:24:01,761-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[1]/span/span
+2022-11-25 21:24:01,761-doExcel.py:[48]-[DEBUG]-读取文件成功//*[@id="cdk-overlay-1"]/nz-modal/div/div[2]/div[1]/div/div/div/div[2]/button
+2022-11-25 21:24:12,726-basePage.py:[48]-[INFO]-未发生异常页面打开成功：http://139.199.0.102/passport/login
+2022-11-25 21:24:12,779-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='userName']")
+2022-11-25 21:24:13,011-basePage.py:[73]-[DEBUG]-输入内容成功
+2022-11-25 21:24:13,047-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[formcontrolname='password']")
+2022-11-25 21:24:13,160-basePage.py:[73]-[DEBUG]-输入内容成功
+2022-11-25 21:24:13,187-basePage.py:[61]-[DEBUG]-元素定位成功，定位成功信息是:('css selector', "[type='submit']")
+2022-11-25 21:24:13,214-basePage.py:[108]-[DEBUG]-点击成功
+2022-11-25 21:24:36,373-basePage.py:[57]-[ERROR]-定位元素失败异常信息是：Message: 
+
+定位失败信息：('css selector', "[class*='.nav1.sel']>span")
+2022-11-25 21:24:36,373-basePage.py:[81]-[ERROR]-获取文本失败；('css selector', "[class*='.nav1.sel']>span")
+错误信息是'NoneType' object has no attribute 'text'
